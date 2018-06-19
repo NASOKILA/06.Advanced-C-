@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\bin\Debug\netcoreapp2.0\09.CrossFire.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\bin\Debug\netcoreapp2.0\09.CrossFire.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\bin\Debug\netcoreapp2.0\09.CrossFire.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\bin\Debug\netcoreapp2.0\09.CrossFire.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\bin\Debug\netcoreapp2.0\09.CrossFire.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\obj\Debug\netcoreapp2.0\09.CrossFire.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\obj\Debug\netcoreapp2.0\09.CrossFire.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\obj\Debug\netcoreapp2.0\09.CrossFire.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\obj\Debug\netcoreapp2.0\09.CrossFire.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\obj\Debug\netcoreapp2.0\09.CrossFire.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\09.CrossFire\obj\Debug\netcoreapp2.0\09.CrossFire.pdb

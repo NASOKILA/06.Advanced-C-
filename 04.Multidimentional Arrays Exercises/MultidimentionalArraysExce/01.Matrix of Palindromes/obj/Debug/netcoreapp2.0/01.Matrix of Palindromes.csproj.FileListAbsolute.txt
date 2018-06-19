@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\bin\Debug\netcoreapp2.0\01.Matrix of Palindromes.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\bin\Debug\netcoreapp2.0\01.Matrix of Palindromes.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\bin\Debug\netcoreapp2.0\01.Matrix of Palindromes.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\bin\Debug\netcoreapp2.0\01.Matrix of Palindromes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\bin\Debug\netcoreapp2.0\01.Matrix of Palindromes.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\obj\Debug\netcoreapp2.0\01.Matrix of Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\obj\Debug\netcoreapp2.0\01.Matrix of Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\obj\Debug\netcoreapp2.0\01.Matrix of Palindromes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\obj\Debug\netcoreapp2.0\01.Matrix of Palindromes.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\obj\Debug\netcoreapp2.0\01.Matrix of Palindromes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\01.Matrix of Palindromes\obj\Debug\netcoreapp2.0\01.Matrix of Palindromes.pdb

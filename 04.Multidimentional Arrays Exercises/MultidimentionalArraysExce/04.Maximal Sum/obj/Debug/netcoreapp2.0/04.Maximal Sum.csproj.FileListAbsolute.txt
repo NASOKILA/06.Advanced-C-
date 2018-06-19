@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\bin\Debug\netcoreapp2.0\04.Maximal Sum.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\bin\Debug\netcoreapp2.0\04.Maximal Sum.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\bin\Debug\netcoreapp2.0\04.Maximal Sum.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\bin\Debug\netcoreapp2.0\04.Maximal Sum.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\bin\Debug\netcoreapp2.0\04.Maximal Sum.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\obj\Debug\netcoreapp2.0\04.Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\obj\Debug\netcoreapp2.0\04.Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\obj\Debug\netcoreapp2.0\04.Maximal Sum.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\obj\Debug\netcoreapp2.0\04.Maximal Sum.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\04.Maximal Sum\obj\Debug\netcoreapp2.0\04.Maximal Sum.pdb

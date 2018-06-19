@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\bin\Debug\netcoreapp2.0\MultidimentionalArraysExce.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\bin\Debug\netcoreapp2.0\MultidimentionalArraysExce.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\bin\Debug\netcoreapp2.0\MultidimentionalArraysExce.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\bin\Debug\netcoreapp2.0\MultidimentionalArraysExce.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\bin\Debug\netcoreapp2.0\MultidimentionalArraysExce.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\obj\Debug\netcoreapp2.0\MultidimentionalArraysExce.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\obj\Debug\netcoreapp2.0\MultidimentionalArraysExce.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\obj\Debug\netcoreapp2.0\MultidimentionalArraysExce.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\obj\Debug\netcoreapp2.0\MultidimentionalArraysExce.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\obj\Debug\netcoreapp2.0\MultidimentionalArraysExce.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\MultidimentionalArraysExce\obj\Debug\netcoreapp2.0\MultidimentionalArraysExce.pdb

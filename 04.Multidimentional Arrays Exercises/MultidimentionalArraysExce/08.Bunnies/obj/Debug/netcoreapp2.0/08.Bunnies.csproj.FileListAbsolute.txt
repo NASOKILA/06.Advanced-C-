@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\bin\Debug\netcoreapp2.0\08.Bunnies.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\bin\Debug\netcoreapp2.0\08.Bunnies.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\bin\Debug\netcoreapp2.0\08.Bunnies.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\bin\Debug\netcoreapp2.0\08.Bunnies.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\bin\Debug\netcoreapp2.0\08.Bunnies.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\obj\Debug\netcoreapp2.0\08.Bunnies.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\obj\Debug\netcoreapp2.0\08.Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\obj\Debug\netcoreapp2.0\08.Bunnies.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\obj\Debug\netcoreapp2.0\08.Bunnies.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\obj\Debug\netcoreapp2.0\08.Bunnies.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\08.Bunnies\obj\Debug\netcoreapp2.0\08.Bunnies.pdb

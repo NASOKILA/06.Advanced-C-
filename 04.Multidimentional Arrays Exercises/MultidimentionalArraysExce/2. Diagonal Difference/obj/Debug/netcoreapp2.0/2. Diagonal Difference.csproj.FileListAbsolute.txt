@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.pdb

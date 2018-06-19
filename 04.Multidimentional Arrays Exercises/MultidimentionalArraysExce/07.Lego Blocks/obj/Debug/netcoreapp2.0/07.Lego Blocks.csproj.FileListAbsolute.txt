@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\bin\Debug\netcoreapp2.0\07.Lego Blocks.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\bin\Debug\netcoreapp2.0\07.Lego Blocks.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\bin\Debug\netcoreapp2.0\07.Lego Blocks.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\bin\Debug\netcoreapp2.0\07.Lego Blocks.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\bin\Debug\netcoreapp2.0\07.Lego Blocks.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\obj\Debug\netcoreapp2.0\07.Lego Blocks.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\obj\Debug\netcoreapp2.0\07.Lego Blocks.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\obj\Debug\netcoreapp2.0\07.Lego Blocks.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\obj\Debug\netcoreapp2.0\07.Lego Blocks.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\obj\Debug\netcoreapp2.0\07.Lego Blocks.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\07.Lego Blocks\obj\Debug\netcoreapp2.0\07.Lego Blocks.pdb

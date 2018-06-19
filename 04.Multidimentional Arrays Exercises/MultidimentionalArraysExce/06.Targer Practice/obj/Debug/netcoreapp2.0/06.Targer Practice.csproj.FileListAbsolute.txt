@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\bin\Debug\netcoreapp2.0\06.Targer Practice.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\bin\Debug\netcoreapp2.0\06.Targer Practice.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\bin\Debug\netcoreapp2.0\06.Targer Practice.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\bin\Debug\netcoreapp2.0\06.Targer Practice.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\bin\Debug\netcoreapp2.0\06.Targer Practice.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\obj\Debug\netcoreapp2.0\06.Targer Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\obj\Debug\netcoreapp2.0\06.Targer Practice.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\obj\Debug\netcoreapp2.0\06.Targer Practice.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\obj\Debug\netcoreapp2.0\06.Targer Practice.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\06.Targer Practice\obj\Debug\netcoreapp2.0\06.Targer Practice.pdb

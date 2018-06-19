@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\obj\Debug\netcoreapp2.0\10.The Hegan Dance.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\obj\Debug\netcoreapp2.0\10.The Hegan Dance.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\obj\Debug\netcoreapp2.0\10.The Hegan Dance.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\obj\Debug\netcoreapp2.0\10.The Hegan Dance.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\bin\Debug\netcoreapp2.0\10.The Hegan Dance.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\bin\Debug\netcoreapp2.0\10.The Hegan Dance.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\bin\Debug\netcoreapp2.0\10.The Hegan Dance.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\bin\Debug\netcoreapp2.0\10.The Hegan Dance.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\bin\Debug\netcoreapp2.0\10.The Hegan Dance.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\obj\Debug\netcoreapp2.0\10.The Hegan Dance.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\10.The Hegan Dance\obj\Debug\netcoreapp2.0\10.The Hegan Dance.pdb

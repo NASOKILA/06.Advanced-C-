@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\bin\Debug\netcoreapp2.0\12.String Matrix Rotation.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\bin\Debug\netcoreapp2.0\12.String Matrix Rotation.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\bin\Debug\netcoreapp2.0\12.String Matrix Rotation.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\bin\Debug\netcoreapp2.0\12.String Matrix Rotation.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\bin\Debug\netcoreapp2.0\12.String Matrix Rotation.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\obj\Debug\netcoreapp2.0\12.String Matrix Rotation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\obj\Debug\netcoreapp2.0\12.String Matrix Rotation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\obj\Debug\netcoreapp2.0\12.String Matrix Rotation.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\obj\Debug\netcoreapp2.0\12.String Matrix Rotation.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\obj\Debug\netcoreapp2.0\12.String Matrix Rotation.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\12.String Matrix Rotation\obj\Debug\netcoreapp2.0\12.String Matrix Rotation.csprojResolveAssemblyReference.cache

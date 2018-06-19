@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\bin\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\bin\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\bin\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\bin\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\bin\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\obj\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\obj\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\obj\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\obj\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\obj\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\04.Multidimentional Arrays Exce\MultidimentionalArraysExce\03.2x2 Squres in Matrix\obj\Debug\netcoreapp2.0\03.2x2 Squres in Matrix.csprojResolveAssemblyReference.cache
