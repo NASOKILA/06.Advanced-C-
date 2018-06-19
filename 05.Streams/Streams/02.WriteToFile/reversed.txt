@@ -1,0 +1,42 @@
+;metsyS gnisuNasko
+;OI.metsyS gnisuNasko
+Nasko
+eliFoTetirW.20_ ecapsemanNasko
+{Nasko
+margorP ssalc    Nasko
+{    Nasko
+)sgra ][gnirts(niaM diov citats        Nasko
+{        Nasko
+Nasko
+: elif txt.desrever wen a ni ti evas dna ti esrever ,elif siht morf enil hcae daeR//            Nasko
+Nasko
+Nasko
+:mehsip eths liaf iok v emavzak um i retirWmaertS is mivarP//            Nasko
+ EDADZUS OG IN ETHS ONTKERID LIAF VUKAT EMAMQN OKA ATAMARGORP MENSUP OTAK :ONJAV//            Nasko
+.ATKEORP V INARTSTO IVZOP ES IN ETHS I//            Nasko
+))"txt.desrever"(retirWmaertS wen = maertSetirw retirWmaertS( gnisu            Nasko
+{            Nasko
+Nasko
+))"sc.margorP"(redaeRmaertS wen = maertSdaer redaeRmaertS( gnisu                Nasko
+{                Nasko
+;enil gnirts                    Nasko
+)llun =! ))(eniLdaeR.maertSdaer = enil(( elihw                    Nasko
+{                    Nasko
+Nasko
+)--retnuoc ;0 => retnuoc ;1 - htgneL.enil = retnuoc tni( rof                        Nasko
+{                        Nasko
+ ehcomas enavsipaz az etirw. dotem emami ataloznok v otkaK//                            Nasko
+txt.desrever :liaf qinehcosop vuv mehsip eths tup izot//                            Nasko
+;)]retnuoc[enil(etirW.maertSetirw                            Nasko
+}                        Nasko
+:der von emavad um ataloznok v otkaK//                        Nasko
+;)"oksaN"(eniLetirW.maertSetirw                        Nasko
+}                    Nasko
+}                Nasko
+}            Nasko
+Nasko
+Nasko
+Nasko
+}        Nasko
+}    Nasko
+}Nasko

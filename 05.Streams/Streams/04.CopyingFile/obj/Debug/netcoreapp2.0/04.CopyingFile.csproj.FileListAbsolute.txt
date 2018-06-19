@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\bin\Debug\netcoreapp2.0\04.CopyingFile.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\04.CopyingFile\obj\Debug\netcoreapp2.0\04.CopyingFile.pdb

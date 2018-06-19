@@ -1,0 +1,350 @@
+;metsyS gnisu
+;OI.metsyS gnisu
+;txeT.metsyS gnisu
+
+smaertS ecapseman
+{
+margorP ssalc    
+{    
+)sgra ][gnirts(niaM diov citats        
+{        
+*/            
+:STNEMMOC             
+
+AJRUDDOP IG EN AJDUJ ATIPZI AN EVOMAERTS AMI AD AMQN            
+
+)EVOLIAF I ICOTOP( :seliF dna smaertS             
+ ad tagom otothsaz etevoliaf to itagob op as eticotoP             
+.otovtsiortsu sus ajerm atamas sus i attemap MAR s i tatobar             
+
+.smaertS retirW i redaeR emadelgzar ethS             
+.salk nedad tavqdelsan smaertS             
+
+evoliaf tavpiz otiok )ICOTOP(smaertS i amI             
+enaritpirk az i ami             
+             
+
+
+:sepyt smaertS            
+smaertS krowteN ,yromeM ,eliF.1                
+smaertS piZ ,otpyrC.2                
+
+
+
+?maertS si tahW*/            
+icinide i ilun inederan ,evotiab inederan as avot             
+.ICINIDE I ILUN E OKHCISV             
+             
+ to emavqorbzi ad emavhcopaz kotop nedad mirovto otaK             
+.akotop an qark od otolahcan             
+AD ONLETIJLUDAZ E EN ,ONREMIRP ATADERS TO I EMAVHCOPAZ AD I EJOM             
+.OTOLAHCAN TO EMAVHCOPAZ             
+
+onremirp liaf nedad to innad an refsnart az tavzlop es ETICOTOP             
+.amargorp atahsan od             
+
+: ad az maertS emqravtO             
+ innad metehC .10                
+innad mehsiP .20                
+             
+            
+!!! ONJAV            
+.atehcpilk an otenadelg az maerts tavzlop ebutuoY                
+ avoklot aresu an avad es a jundevan ehcpilk otolqc adjeraz eN                
+ adelg og otakod i apilk adelg ad enhcopaz ad otoklok                
+.apilk to innad etilanatso tadjeraz es                
+ i ehcpilk otolqc ideraz es otakod emakahc ad agalan es en akaT                
+.innad oklam op ilideraz ems apilk to mezelzi ad mihser oka                
+            
+/*             
+
+*/            
+!!!!!! innad to icotop inletavodelsop as etevomaertS             
+
+liaf qilec emadjeraz og en ein maertS sus liaf nedad to metehc ad emaksi okA             
+,ogen to emaksi is otoklok metehcorp ad mejom elsop i enetehc az emqvtogdop og omas a             
+.liaf qilec metehc ad inejludaz ems en             
+/*            
+
+*/            
+:evomaerts inhcilzar az evosalk inhcilzar avad in #C             
+:smaerts fo sepyT             
+ evoliaf to innad an enetehc az e : maerteliF.10                
+avtsiortsu ivojerm to innad an enetehc az e : maertSkrowteN.20                
+.tanzehczi eths otiok attemap MAR to innad an enetehc az e : maertSyromeM.30                
+
+
+:reffuB            
+.amaerts v qicizop atahsan to atiab iorb an 'n' ijrud arefuB                
+ .derpan emadelg ad mejoM                
+.amaerts to etinnad adjeraz iot otothsaz areffub to metehc onlaer eiN                
+            
+
+
+!!!!!!! KOLB GNISU ES AVZLOP !!! ONJAV            
+ akolb emavzlop ad onjav e #C  v icotop s atobar aZ                
+.arips akotop ogen nuvzi ehc meanz otothsaz } . . . {)(gnisu                
+             
+            
+salk retirw enasip az a salk reder emavzlop enetehc aZ            
+mehsip omas ili ,onnemervonde etevd s i maerts emqravto en agokiN            
+.onremirp liaf nedad to metehc omas ili            
+ogonm avzlop es en on etevd az i avikat amI            
+            
+ enasip az i enetehc az ithsqdohdop as detirWyranyB i redaeRyraniB            
+.evoliaf ivotsket as en otiok igurd i aediv ,iknitrak an            
+
+
+/*             
+             
+
+:elpmaxe maertS//            
+.ogen od remon s liaf qihsan to der ikesv emaritnirP//            
+{ ))"sc.margorP"(redaeRmaertS wen = maerts redaeRmaertS( gnisu            
+
+;"" = enil gnirts                
+;0 = tnuoc tni                
+{ )llun =! ))(eniLdaeR.maerts = enil(( elihw                
+;)"}enil{ :}tnuoc++{ eniL"$(eniLetirW.elosnoC                    
+}                
+}            
+
+
+*/            
+             
+ogonm ethso ami on )(eniLdaeR omas emhavzlop ein ,emavzlopn ami redaeRmaertS V            
+.ogonm tazqlzi it eths   . ihsipan i salk izot an qicnatsni avon hsivarpan otak irevorp            
+/*            
+
+
+
+: retirWmaertS SUS REMIRP//            
+
+: elif txt.desrever wen a ni ti evas dna ti esrever ,elif siht morf enil hcae daeR//            
+            
+:mehsip eths liaf iok v emavzak um i retirWmaertS is mivarP//            
+ EDADZUS OG IN ETHS ONTKERID LIAF VUKAT EMAMQN OKA ATAMARGORP MENSUP OTAK :ONJAV//            
+.ATKEORP V INARTSTO IVZOP ES IN ETHS I//            
+))"txt.desrever"(retirWmaertS wen = maertSetirw retirWmaertS( gnisu            
+{            
+*/                
+ALIAF AN OTENAVADZUS AZ IRTEMARAP ETHSO EMQVABOD AD MEJOM }{)( gnisu VUV                 
+))... ,"txt.desrever"(retirWmaertS wen                 
+LIAF VUKAT AMI EHCEV OKA NOITPECXE QLRUVH AD MEJAK UM AD MEJOM                 
+... ATHSEN IGURD OGONM I AVTIWREVO OG AD ILAD                 
+/*                 
+
+!!! ONJAV//                
+!!! ARETIRW OGEN V I AREDAER EMARINIFED AD OVRUP MEJOM//                
+))"sc.margorP"(redaeRmaertS wen = maertSdaer redaeRmaertS( gnisu                
+{                
+;enil gnirts                    
+)llun =! ))(eniLdaeR.maertSdaer = enil(( elihw                    
+{                    
+
+)--retnuoc ;0 => retnuoc ;1 - htgneL.enil = retnuoc tni( rof                        
+{                        
+ ehcomas enavsipaz az etirw. dotem emami ataloznok v otkaK//                            
+txt.desrever :liaf qinehcosop vuv mehsip eths tup izot//                            
+;)]retnuoc[enil(etirW.maertSetirw                            
+}                        
+:der von emavad um ataloznok v otkaK//                        
+;)(eniLetirW.maertSetirw                        
+}                    
+}                
+}            
+
+
+
+
+
+
+*/            
+             
+ TEN. V            
+: i emavzlop ad mejom#C vuv liaf an enasip i enetehc aZ             
+;)"emanelif"(txeTllAdaeR.eliF.10                
+;)"emanelif"(seniLllAetirW.eliF.20                
+
+.enavzlop az athsen ogonm ami asalk eliF            
+            
+
+
+:akat tatobar etevomaertS TEN. V            
+
+:sretirWdaertS / sredaeRmaertS            
+retirWmaertS / redaeRmaertS.10                
+onremirp iknitrak az e avoT   -   retirWyraniB / redaeRyraniB.20                
+innad izab op asruk v og emhavzlop     -      retirWlmX / redaERlmX.30                
+            
+)itsonlanoicknuF( :smaertS rotaroceD            
+atiserpmok     -       maertSpiZG.10                
+aritpirk     -     maertSotpyrC.20                
+maertSdereffuB.30                
+
+)evosalk ivozaB(  :erotS gnikcaB esaB            
+maertSeliF.10                
+maertSyromeM.20                
+maertSkrowteN.30                
+
+:erotS gnikcaB            
+avtsiortsu ivojerm ,temap ,evoliaf :erawdraH                
+             
+             
+             
+;maertS.OI.metsyS ataketilbib tavqdelsan evomaertS ikhcisV             
+ omas .e.t tavkeep ad tagoM .rd i tavqrevorp ,tahsip ,ttehc etevomaertS             
+.othsin tavarp ad zeb tadelg ad             
+            
+            
+:sdotem maertS            
+amaerts qravtaz     -     )(esolC.10                
+!!! onremirp ataders t metehc ad menhcopaz ad mejom ,amaerts v qicizop atahsan emavtsemerp     -     ;)(keeS.20                
+
+areffub mitsihczi ad mejom )(hsulF. adotem sus ,reffub emavzlop okA                
+                
+.AKITKARP AHSOL E ON liaf nedad v onnemervonde mehsip ad i metehc ad mejom )(maertSeliF suS            
+!!! INOITPECXE OGONM AVAD I            
+ ivarp og ad ejom ad gurd iokqn aliaf vuv mehsip ili metehc ein otakod ehc akat mivarpan og ad mejoM            
+.liaf qithsus an            
+
+:irotkurtsnok inhcilzar amI            
+eman eliF                
+edom nepo eliF                
+edom ssecca eliF                
+
+
+
+ emarinifed is ad i idotem emavtirwrevo ad mihcuan es eths derpan oP            
+.idotem is ihsan imas            
+
+/*             
+
+;)(eniLetirW.elosnoC            
+
+:OTONDELS EMAVZLOP AD AVBQRT }{)(gnisu EMAVZLOP EN OKA//            
+
+:elpmaxE maertSeliF//            
+;"ацилириК" = txet gnirts            
+;llun = maertSelif maertSeliF            
+yrt            
+{            
+.liaf an enavadzus az e oteok ,edom emavadop um rutemarap qirotv s//                
+;)etaerC.edoMeliF ,"txt.gol"(maertSeliF wen = maertSelif                
+
+nihcan qindels op avats avot ,um etevotiab tavbqrt in atxet mehsipaz ad az//                
+atiab 61 emami ivkub 8 az .e.t atiab avd op s avsipo es avkub akqsv ,FTU emavzloP//                
+;)txet(setyBteG.8FTU.gnidocnE.txeT.metsyS = setyb rav                
+
+amaerts an etevotiab emavadop//                
+ tnemele qivelun to enhcopaz ad az 0 tesffo um emavadop//                
+htgnel.setyb od .e.t ikhcisv emezv ad emavzak um tnuoc az i//                
+;)htgneL.setyb ,0 ,setyb(etirW.maertSelif                
+                
+ацилириК EHSIP OTIOK V txt.gol LIAF NEDADZUS EMAMI AGES//                
+}            
+yllanif            
+{            
+gnisu emavzlop en okA//                
+ amaerts mirovtaz ad avbqrt onletijludaz//                
+   ;)(esolC.maertSelif                
+}            
+
+
+ATIAB 4 ,3 OP I TAMIZV ATACILBAT IICSA TO ILOVNIS IOKQN//            
+
+
+;)(eniLetirW.elosnoC            
+
+
+/*:LIAF SAN TO NEDADZUS VON MUK LIAF NEHSNUV TO .RD I IKMINS ,EVOLIAF AN ENARIPOK*/            
+)(ypoC.eliF emavzlop ad mejom ,nihcan nesel op i ami picnirp oP//            
+maertSeliF otsemv//            
+
+ qahculs v otkak akmins i e ad ejom ,aliaf emqravtO//            
+))nepO.edoMeliF ,"gpj.sevorgSVhcaorf"(maertSeliF wen = eliFecruos rav( gnisu            
+{            
+liaf gurd v emavsipaz og ages i //                
+))etaerC.edoMeliF ,"gpj.gmIypoc"(maertSeliF wen = liaFnoitanitsed rav( gnisu                
+{                
+.txet s tatobar et otothsaz retirWmaertS ili redaeRmaerts emavzlop ad megom eN//                    
+
+RETSULK NIDE AN atanjlud e avot otothsaz 6904 anijlud sus :reffub emavzlop ethS//                    
+ITOBAR AKAT OTSORP EHCANI ILI AKAT ILEDTO OG ETHS SWODNIW otsorp oniahculs e en olsihc avoT//                    
+jundevan mehsipaz og eths 6904 e oka ,retsulk nide itup 4 emavsipaz ad avbqrt eths 4201 anijlud medad okA//                    
+;]6904[etyb wen = reffub ][etyb                    
+
+)eurt( elihw                    
+{                    
+AREFUB V METEHC ETHS ALIAF ESRUOS TO//                        
+;)htgneL.reffub ,0 ,reffub(daeR.eliFecruos = tnuoCsetyBdaer rav                        
+
+emavkaerb onletavodels i aripok ad ovkak amqn ehcev ihcanz 0 e oka//                        
+)0 == tnuoCsetyBdaer( fi                        
+;kaerb                            
+
+liaf von v emavsipaz og ehcani//                        
+;)tnuoCsetyBdaer ,0 ,reffub(etirW.liaFnoitanitsed                        
+
+}                    
+
+!!! ONJAV//                    
+;). . .(ypoC.eliF S AWATS ONSEL OP OGONM//                    
+}                
+}            
+
+           
+
+
+: ACINITAL AN NO ONHCILZAR E ACILIRIK AN INNAD AN OTENAVSIPAZ*/            
+ACILIRIK AN NASIPAZ LOVNIS IKESV ,NIHCAN NEHCILZAR OP ES TAVDOKNE             
+ .ATIAB AVD OTAK AVDOCNE ES             
+.OTHSIN ENATS AD AMQN NIDE OP NIDE ETEVOTIAB METEHC OKA             
+/*.TATLIZER NELIVARP ENRUV IN AD I JUNDEVAN 2 x 2 TAVDOKNE ES AD KAK INIHCAN AMI ON             
+
+gnirts vukkqn is emavadzus//            
+;"olleH" = nital gnirts            
+ GNIRTS IZOT I IaVBORP//  ;"оллеХ" = ciliric gnirts            
+
+amaertSyromem v mehsipaz ig ad i etevotiab memezv um ad mejom maertSyromEM an otenavadzus irp ontkerid//            
+)))ciliric(setyBteG.8FTU.gnidocnE(maertSyromeM wen = maertSyromem maertSyromeM( gnisu            
+{            
+
+)(etyBdaeR. sus nide op nide evotiab ikhcisv emamizv ,akat itobar es kut//                
+
+)++i ;htgneL.maertSyromem  < i ;0 = i tni( rof                
+{                
+ataloznok an aovnis emaritnirp um i nide op nide tiab ikesv emamizv//                    
+;)(etyBdaeR.maertSyromem = etyBtnerruc tni                    
+;)etyBtnerruc)rahc((etirW.elosnoC                    
+
+*/                 
+is as otkak ilovnis etimas aritnirp um is iksnital an tsket emami oka ehc emadjiV                    
+otenaritnirp irp i ilovnis ehcevop oniovd ami ehc emadjiv acilirik an e in atsket oka ehcabo                    
+.atsxet s inhcilzar mesvus as                    
+/*                 
+}                
+;)(eniLetirW.elosnoC                
+
+}            
+
+)ILOVNIS( EVOTYAB EHCEVOP ONIOVDM TAMEAZ ACILIRIK AN i-SMS HSEHSIP OK EHC HSEANZ AGES//            
+
+
+
+
+:MAERTS KROWTEN//            
+!!!!!!! othsen onsel e en maertSkrowten an qicalumiS//            
+
+revreSbeW.60 EHCADAZ JIV ELPMAXE REVRES BEW//            
+           
+
+
+
+
+
+
+
+}        
+}    
+}

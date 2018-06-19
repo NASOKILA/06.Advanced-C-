@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\bin\Debug\netcoreapp2.0\06.WebServer.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\bin\Debug\netcoreapp2.0\06.WebServer.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\bin\Debug\netcoreapp2.0\06.WebServer.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\bin\Debug\netcoreapp2.0\06.WebServer.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\bin\Debug\netcoreapp2.0\06.WebServer.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\obj\Debug\netcoreapp2.0\06.WebServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\obj\Debug\netcoreapp2.0\06.WebServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\obj\Debug\netcoreapp2.0\06.WebServer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\obj\Debug\netcoreapp2.0\06.WebServer.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\obj\Debug\netcoreapp2.0\06.WebServer.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\06.WebServer\obj\Debug\netcoreapp2.0\06.WebServer.pdb

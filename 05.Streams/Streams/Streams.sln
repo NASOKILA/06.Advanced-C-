@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams", "Streams\Streams.csproj", "{A77770B6-C0A0-4A5B-B905-DA815E22A1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReadFile", "01.ReadFile\01.ReadFile.csproj", "{9AA2D93A-0C21-421D-ADDD-2C79B5C0F365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.WriteToFile", "02.WriteToFile\02.WriteToFile.csproj", "{8A66131A-E8AC-40C8-81F4-1B0A816A20DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WritingTextToFile", "03.WritingTextToFile\03.WritingTextToFile.csproj", "{27B2998E-C154-41B9-A1A3-86C0219D06B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CopyingFile", "04.CopyingFile\04.CopyingFile.csproj", "{FDDB6919-FE27-4F35-8E1F-AE0847D22278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ReadingInMemoryString", "05.ReadingInMemoryString\05.ReadingInMemoryString.csproj", "{71DE39F1-F0A2-4435-A612-AC5E3A4A8C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.WebServer", "06.WebServer\06.WebServer.csproj", "{DE054971-6208-4AC9-9D61-C2266136E073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A77770B6-C0A0-4A5B-B905-DA815E22A1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77770B6-C0A0-4A5B-B905-DA815E22A1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77770B6-C0A0-4A5B-B905-DA815E22A1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77770B6-C0A0-4A5B-B905-DA815E22A1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA2D93A-0C21-421D-ADDD-2C79B5C0F365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA2D93A-0C21-421D-ADDD-2C79B5C0F365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA2D93A-0C21-421D-ADDD-2C79B5C0F365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA2D93A-0C21-421D-ADDD-2C79B5C0F365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A66131A-E8AC-40C8-81F4-1B0A816A20DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A66131A-E8AC-40C8-81F4-1B0A816A20DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A66131A-E8AC-40C8-81F4-1B0A816A20DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A66131A-E8AC-40C8-81F4-1B0A816A20DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B2998E-C154-41B9-A1A3-86C0219D06B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B2998E-C154-41B9-A1A3-86C0219D06B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B2998E-C154-41B9-A1A3-86C0219D06B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B2998E-C154-41B9-A1A3-86C0219D06B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDB6919-FE27-4F35-8E1F-AE0847D22278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDB6919-FE27-4F35-8E1F-AE0847D22278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDB6919-FE27-4F35-8E1F-AE0847D22278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDB6919-FE27-4F35-8E1F-AE0847D22278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DE39F1-F0A2-4435-A612-AC5E3A4A8C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DE39F1-F0A2-4435-A612-AC5E3A4A8C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DE39F1-F0A2-4435-A612-AC5E3A4A8C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DE39F1-F0A2-4435-A612-AC5E3A4A8C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE054971-6208-4AC9-9D61-C2266136E073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE054971-6208-4AC9-9D61-C2266136E073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE054971-6208-4AC9-9D61-C2266136E073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE054971-6208-4AC9-9D61-C2266136E073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF21408-AF18-4429-B784-12A5BD46FEE3}
+	EndGlobalSection
+EndGlobal

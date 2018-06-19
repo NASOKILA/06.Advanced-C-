@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\bin\Debug\netcoreapp2.0\02.WriteToFile.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\bin\Debug\netcoreapp2.0\02.WriteToFile.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\bin\Debug\netcoreapp2.0\02.WriteToFile.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\bin\Debug\netcoreapp2.0\02.WriteToFile.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\bin\Debug\netcoreapp2.0\02.WriteToFile.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\obj\Debug\netcoreapp2.0\02.WriteToFile.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\obj\Debug\netcoreapp2.0\02.WriteToFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\obj\Debug\netcoreapp2.0\02.WriteToFile.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\obj\Debug\netcoreapp2.0\02.WriteToFile.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\obj\Debug\netcoreapp2.0\02.WriteToFile.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\05.Streams\Streams\02.WriteToFile\obj\Debug\netcoreapp2.0\02.WriteToFile.pdb
