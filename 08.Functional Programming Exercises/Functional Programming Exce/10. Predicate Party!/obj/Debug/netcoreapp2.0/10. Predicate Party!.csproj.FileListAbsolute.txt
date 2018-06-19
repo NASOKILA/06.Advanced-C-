@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\bin\Debug\netcoreapp2.0\10. Predicate Party!.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\bin\Debug\netcoreapp2.0\10. Predicate Party!.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\bin\Debug\netcoreapp2.0\10. Predicate Party!.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\bin\Debug\netcoreapp2.0\10. Predicate Party!.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\bin\Debug\netcoreapp2.0\10. Predicate Party!.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\obj\Debug\netcoreapp2.0\10. Predicate Party!.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\obj\Debug\netcoreapp2.0\10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\obj\Debug\netcoreapp2.0\10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\obj\Debug\netcoreapp2.0\10. Predicate Party!.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\obj\Debug\netcoreapp2.0\10. Predicate Party!.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\10. Predicate Party!\obj\Debug\netcoreapp2.0\10. Predicate Party!.pdb

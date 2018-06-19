@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.pdb

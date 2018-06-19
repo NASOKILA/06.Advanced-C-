@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.pdb

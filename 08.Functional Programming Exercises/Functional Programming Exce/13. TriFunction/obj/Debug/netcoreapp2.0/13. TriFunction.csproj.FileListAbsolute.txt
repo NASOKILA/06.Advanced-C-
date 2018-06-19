@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.pdb

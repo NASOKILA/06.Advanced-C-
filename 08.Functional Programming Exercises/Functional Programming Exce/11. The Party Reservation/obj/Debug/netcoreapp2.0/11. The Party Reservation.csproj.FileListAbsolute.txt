@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.pdb

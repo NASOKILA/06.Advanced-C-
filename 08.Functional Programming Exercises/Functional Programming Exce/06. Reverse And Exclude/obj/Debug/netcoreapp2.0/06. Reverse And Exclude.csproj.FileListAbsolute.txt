@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\08.Functional Programming Exce\Functional Programming Exce\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.pdb
