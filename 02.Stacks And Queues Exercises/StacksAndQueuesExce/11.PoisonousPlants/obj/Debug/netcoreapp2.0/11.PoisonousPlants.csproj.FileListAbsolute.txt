@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\bin\Debug\netcoreapp2.0\11.PoisonousPlants.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\bin\Debug\netcoreapp2.0\11.PoisonousPlants.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\bin\Debug\netcoreapp2.0\11.PoisonousPlants.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\bin\Debug\netcoreapp2.0\11.PoisonousPlants.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\bin\Debug\netcoreapp2.0\11.PoisonousPlants.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\obj\Debug\netcoreapp2.0\11.PoisonousPlants.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\obj\Debug\netcoreapp2.0\11.PoisonousPlants.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\obj\Debug\netcoreapp2.0\11.PoisonousPlants.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\obj\Debug\netcoreapp2.0\11.PoisonousPlants.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\obj\Debug\netcoreapp2.0\11.PoisonousPlants.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\11.PoisonousPlants\obj\Debug\netcoreapp2.0\11.PoisonousPlants.pdb

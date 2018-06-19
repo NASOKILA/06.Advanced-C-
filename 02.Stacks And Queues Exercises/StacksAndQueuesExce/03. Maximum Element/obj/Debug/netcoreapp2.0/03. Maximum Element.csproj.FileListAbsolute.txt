@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.csprojResolveAssemblyReference.cache

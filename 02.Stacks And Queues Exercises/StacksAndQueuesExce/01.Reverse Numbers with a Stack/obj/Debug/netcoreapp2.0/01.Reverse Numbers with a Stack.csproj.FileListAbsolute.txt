@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\01.Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\01.Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\bin\Debug\netcoreapp2.0\StacksAndQueuesExce.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\bin\Debug\netcoreapp2.0\StacksAndQueuesExce.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\bin\Debug\netcoreapp2.0\StacksAndQueuesExce.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\bin\Debug\netcoreapp2.0\StacksAndQueuesExce.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\bin\Debug\netcoreapp2.0\StacksAndQueuesExce.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\obj\Debug\netcoreapp2.0\StacksAndQueuesExce.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\obj\Debug\netcoreapp2.0\StacksAndQueuesExce.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\obj\Debug\netcoreapp2.0\StacksAndQueuesExce.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\obj\Debug\netcoreapp2.0\StacksAndQueuesExce.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\obj\Debug\netcoreapp2.0\StacksAndQueuesExce.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\StacksAndQueuesExce\obj\Debug\netcoreapp2.0\StacksAndQueuesExce.pdb

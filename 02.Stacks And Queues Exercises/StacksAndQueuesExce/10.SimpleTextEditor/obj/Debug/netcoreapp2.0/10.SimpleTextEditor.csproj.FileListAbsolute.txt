@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\bin\Debug\netcoreapp2.0\10.SimpleTextEditor.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\bin\Debug\netcoreapp2.0\10.SimpleTextEditor.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\bin\Debug\netcoreapp2.0\10.SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\bin\Debug\netcoreapp2.0\10.SimpleTextEditor.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\bin\Debug\netcoreapp2.0\10.SimpleTextEditor.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\obj\Debug\netcoreapp2.0\10.SimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\obj\Debug\netcoreapp2.0\10.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\obj\Debug\netcoreapp2.0\10.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\obj\Debug\netcoreapp2.0\10.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\obj\Debug\netcoreapp2.0\10.SimpleTextEditor.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\10.SimpleTextEditor\obj\Debug\netcoreapp2.0\10.SimpleTextEditor.pdb

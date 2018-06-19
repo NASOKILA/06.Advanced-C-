@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.pdb

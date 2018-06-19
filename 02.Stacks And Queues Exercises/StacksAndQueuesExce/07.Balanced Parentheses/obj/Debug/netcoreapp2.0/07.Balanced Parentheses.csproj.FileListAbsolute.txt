@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\bin\Debug\netcoreapp2.0\07.Balanced Parentheses.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\bin\Debug\netcoreapp2.0\07.Balanced Parentheses.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\bin\Debug\netcoreapp2.0\07.Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\bin\Debug\netcoreapp2.0\07.Balanced Parentheses.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\bin\Debug\netcoreapp2.0\07.Balanced Parentheses.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\obj\Debug\netcoreapp2.0\07.Balanced Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\obj\Debug\netcoreapp2.0\07.Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\obj\Debug\netcoreapp2.0\07.Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\obj\Debug\netcoreapp2.0\07.Balanced Parentheses.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\obj\Debug\netcoreapp2.0\07.Balanced Parentheses.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\07.Balanced Parentheses\obj\Debug\netcoreapp2.0\07.Balanced Parentheses.pdb

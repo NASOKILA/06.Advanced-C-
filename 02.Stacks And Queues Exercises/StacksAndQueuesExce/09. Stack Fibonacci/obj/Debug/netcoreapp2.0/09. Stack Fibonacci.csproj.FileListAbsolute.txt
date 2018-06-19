@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.csprojResolveAssemblyReference.cache

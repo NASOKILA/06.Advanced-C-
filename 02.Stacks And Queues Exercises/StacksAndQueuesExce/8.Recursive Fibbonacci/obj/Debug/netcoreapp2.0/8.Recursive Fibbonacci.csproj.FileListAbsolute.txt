@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\bin\Debug\netcoreapp2.0\8.Recursive Fibbonacci.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\bin\Debug\netcoreapp2.0\8.Recursive Fibbonacci.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\bin\Debug\netcoreapp2.0\8.Recursive Fibbonacci.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\bin\Debug\netcoreapp2.0\8.Recursive Fibbonacci.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\bin\Debug\netcoreapp2.0\8.Recursive Fibbonacci.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\obj\Debug\netcoreapp2.0\8.Recursive Fibbonacci.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\obj\Debug\netcoreapp2.0\8.Recursive Fibbonacci.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\obj\Debug\netcoreapp2.0\8.Recursive Fibbonacci.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\obj\Debug\netcoreapp2.0\8.Recursive Fibbonacci.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\02.Stacks And Queues Exce\StacksAndQueuesExce\8.Recursive Fibbonacci\obj\Debug\netcoreapp2.0\8.Recursive Fibbonacci.pdb
