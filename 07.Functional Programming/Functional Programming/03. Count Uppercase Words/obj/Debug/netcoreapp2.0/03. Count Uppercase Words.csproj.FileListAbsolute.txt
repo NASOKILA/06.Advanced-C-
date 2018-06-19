@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.pdb

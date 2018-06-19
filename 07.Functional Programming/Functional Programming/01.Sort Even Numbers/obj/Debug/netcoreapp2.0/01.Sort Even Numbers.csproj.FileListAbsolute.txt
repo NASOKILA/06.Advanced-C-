@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\bin\Debug\netcoreapp2.0\01.Sort Even Numbers.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\bin\Debug\netcoreapp2.0\01.Sort Even Numbers.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\bin\Debug\netcoreapp2.0\01.Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\bin\Debug\netcoreapp2.0\01.Sort Even Numbers.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\bin\Debug\netcoreapp2.0\01.Sort Even Numbers.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\obj\Debug\netcoreapp2.0\01.Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\obj\Debug\netcoreapp2.0\01.Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\obj\Debug\netcoreapp2.0\01.Sort Even Numbers.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\obj\Debug\netcoreapp2.0\01.Sort Even Numbers.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\01.Sort Even Numbers\obj\Debug\netcoreapp2.0\01.Sort Even Numbers.pdb

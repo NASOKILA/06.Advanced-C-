@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\bin\Debug\netcoreapp2.0\Functional Programming.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\bin\Debug\netcoreapp2.0\Functional Programming.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\bin\Debug\netcoreapp2.0\Functional Programming.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\bin\Debug\netcoreapp2.0\Functional Programming.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\bin\Debug\netcoreapp2.0\Functional Programming.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\obj\Debug\netcoreapp2.0\Functional Programming.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\obj\Debug\netcoreapp2.0\Functional Programming.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\obj\Debug\netcoreapp2.0\Functional Programming.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\obj\Debug\netcoreapp2.0\Functional Programming.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\obj\Debug\netcoreapp2.0\Functional Programming.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\Functional Programming\obj\Debug\netcoreapp2.0\Functional Programming.pdb

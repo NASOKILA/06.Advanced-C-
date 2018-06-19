@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\bin\Debug\netcoreapp2.0\05.Filter by Age.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\bin\Debug\netcoreapp2.0\05.Filter by Age.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\bin\Debug\netcoreapp2.0\05.Filter by Age.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\bin\Debug\netcoreapp2.0\05.Filter by Age.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\bin\Debug\netcoreapp2.0\05.Filter by Age.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\obj\Debug\netcoreapp2.0\05.Filter by Age.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\obj\Debug\netcoreapp2.0\05.Filter by Age.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\obj\Debug\netcoreapp2.0\05.Filter by Age.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\obj\Debug\netcoreapp2.0\05.Filter by Age.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\obj\Debug\netcoreapp2.0\05.Filter by Age.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\05.Filter by Age\obj\Debug\netcoreapp2.0\05.Filter by Age.csprojResolveAssemblyReference.cache

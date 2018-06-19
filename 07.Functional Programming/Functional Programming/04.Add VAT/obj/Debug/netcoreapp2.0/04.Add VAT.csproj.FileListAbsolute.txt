@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\bin\Debug\netcoreapp2.0\04.Add VAT.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\bin\Debug\netcoreapp2.0\04.Add VAT.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\bin\Debug\netcoreapp2.0\04.Add VAT.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\bin\Debug\netcoreapp2.0\04.Add VAT.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\bin\Debug\netcoreapp2.0\04.Add VAT.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\obj\Debug\netcoreapp2.0\04.Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\obj\Debug\netcoreapp2.0\04.Add VAT.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\obj\Debug\netcoreapp2.0\04.Add VAT.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\obj\Debug\netcoreapp2.0\04.Add VAT.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\obj\Debug\netcoreapp2.0\04.Add VAT.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\07.Functional Programming\Functional Programming\04.Add VAT\obj\Debug\netcoreapp2.0\04.Add VAT.csprojResolveAssemblyReference.cache
