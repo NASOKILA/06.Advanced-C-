@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\02. Knight Game\bin\Debug\_02.Knight_Game.exe.config
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\02. Knight Game\bin\Debug\_02.Knight_Game.exe
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\02. Knight Game\bin\Debug\_02.Knight_Game.pdb
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\02. Knight Game\obj\Debug\02. Knight Game.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\02. Knight Game\obj\Debug\02. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\02. Knight Game\obj\Debug\_02.Knight_Game.exe
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\02. Knight Game\obj\Debug\_02.Knight_Game.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\01. Regeh\bin\Debug\_01.Regeh.exe.config
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\01. Regeh\bin\Debug\_01.Regeh.exe
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\01. Regeh\bin\Debug\_01.Regeh.pdb
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\01. Regeh\obj\Debug\01. Regeh.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\01. Regeh\obj\Debug\01. Regeh.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\01. Regeh\obj\Debug\_01.Regeh.exe
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\01. Regeh\obj\Debug\_01.Regeh.pdb

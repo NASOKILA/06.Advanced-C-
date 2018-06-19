@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\03. Number Wars\bin\Debug\_03.Number_Wars.exe.config
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\03. Number Wars\bin\Debug\_03.Number_Wars.exe
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\03. Number Wars\bin\Debug\_03.Number_Wars.pdb
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\03. Number Wars\obj\Debug\03. Number Wars.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\03. Number Wars\obj\Debug\03. Number Wars.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\03. Number Wars\obj\Debug\_03.Number_Wars.exe
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\03. Number Wars\obj\Debug\_03.Number_Wars.pdb

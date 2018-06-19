@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\04. Hospital\bin\Debug\_04.Hospital.exe.config
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\04. Hospital\bin\Debug\_04.Hospital.exe
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\04. Hospital\bin\Debug\_04.Hospital.pdb
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\04. Hospital\obj\Debug\04. Hospital.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\04. Hospital\obj\Debug\04. Hospital.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\04. Hospital\obj\Debug\_04.Hospital.exe
+C:\Users\PC\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\10.Exam Prep One\Exam Prep One\04. Hospital\obj\Debug\_04.Hospital.pdb
