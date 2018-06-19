@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\bin\Debug\netcoreapp2.0\05.Hot Potatoe.deps.json
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\bin\Debug\netcoreapp2.0\05.Hot Potatoe.runtimeconfig.json
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\bin\Debug\netcoreapp2.0\05.Hot Potatoe.runtimeconfig.dev.json
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\bin\Debug\netcoreapp2.0\05.Hot Potatoe.dll
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\bin\Debug\netcoreapp2.0\05.Hot Potatoe.pdb
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\obj\Debug\netcoreapp2.0\05.Hot Potatoe.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\obj\Debug\netcoreapp2.0\05.Hot Potatoe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\obj\Debug\netcoreapp2.0\05.Hot Potatoe.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\obj\Debug\netcoreapp2.0\05.Hot Potatoe.AssemblyInfo.cs
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\obj\Debug\netcoreapp2.0\05.Hot Potatoe.dll
+C:\Users\user\source\repos\StecksAndQueue\05.Hot Potatoe\obj\Debug\netcoreapp2.0\05.Hot Potatoe.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\bin\Debug\netcoreapp2.0\StecksAndQueue.deps.json
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\bin\Debug\netcoreapp2.0\StecksAndQueue.runtimeconfig.json
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\bin\Debug\netcoreapp2.0\StecksAndQueue.runtimeconfig.dev.json
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\bin\Debug\netcoreapp2.0\StecksAndQueue.dll
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\bin\Debug\netcoreapp2.0\StecksAndQueue.pdb
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\obj\Debug\netcoreapp2.0\StecksAndQueue.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\obj\Debug\netcoreapp2.0\StecksAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\obj\Debug\netcoreapp2.0\StecksAndQueue.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\obj\Debug\netcoreapp2.0\StecksAndQueue.AssemblyInfo.cs
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\obj\Debug\netcoreapp2.0\StecksAndQueue.dll
+C:\Users\user\source\repos\StecksAndQueue\StecksAndQueue\obj\Debug\netcoreapp2.0\StecksAndQueue.pdb

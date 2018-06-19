@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\bin\Debug\netcoreapp2.0\06.Traffic Light.deps.json
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\bin\Debug\netcoreapp2.0\06.Traffic Light.runtimeconfig.json
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\bin\Debug\netcoreapp2.0\06.Traffic Light.runtimeconfig.dev.json
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\bin\Debug\netcoreapp2.0\06.Traffic Light.dll
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\bin\Debug\netcoreapp2.0\06.Traffic Light.pdb
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\obj\Debug\netcoreapp2.0\06.Traffic Light.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\obj\Debug\netcoreapp2.0\06.Traffic Light.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\obj\Debug\netcoreapp2.0\06.Traffic Light.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\obj\Debug\netcoreapp2.0\06.Traffic Light.AssemblyInfo.cs
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\obj\Debug\netcoreapp2.0\06.Traffic Light.dll
+C:\Users\user\source\repos\StecksAndQueue\06.Traffic Light\obj\Debug\netcoreapp2.0\06.Traffic Light.pdb

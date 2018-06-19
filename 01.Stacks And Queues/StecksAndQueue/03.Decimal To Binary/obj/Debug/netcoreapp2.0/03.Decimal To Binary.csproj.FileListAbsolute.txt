@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\bin\Debug\netcoreapp2.0\03.Decimal To Binary.deps.json
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\bin\Debug\netcoreapp2.0\03.Decimal To Binary.runtimeconfig.json
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\bin\Debug\netcoreapp2.0\03.Decimal To Binary.runtimeconfig.dev.json
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\bin\Debug\netcoreapp2.0\03.Decimal To Binary.dll
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\bin\Debug\netcoreapp2.0\03.Decimal To Binary.pdb
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\obj\Debug\netcoreapp2.0\03.Decimal To Binary.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\obj\Debug\netcoreapp2.0\03.Decimal To Binary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\obj\Debug\netcoreapp2.0\03.Decimal To Binary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\obj\Debug\netcoreapp2.0\03.Decimal To Binary.AssemblyInfo.cs
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\obj\Debug\netcoreapp2.0\03.Decimal To Binary.dll
+C:\Users\user\source\repos\StecksAndQueue\03.Decimal To Binary\obj\Debug\netcoreapp2.0\03.Decimal To Binary.pdb
