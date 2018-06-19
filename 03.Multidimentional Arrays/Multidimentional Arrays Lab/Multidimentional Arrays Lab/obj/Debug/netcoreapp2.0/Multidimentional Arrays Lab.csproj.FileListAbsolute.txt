@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\bin\Debug\netcoreapp2.0\Multidimentional Arrays Lab.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\bin\Debug\netcoreapp2.0\Multidimentional Arrays Lab.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\bin\Debug\netcoreapp2.0\Multidimentional Arrays Lab.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\bin\Debug\netcoreapp2.0\Multidimentional Arrays Lab.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\bin\Debug\netcoreapp2.0\Multidimentional Arrays Lab.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\obj\Debug\netcoreapp2.0\Multidimentional Arrays Lab.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\obj\Debug\netcoreapp2.0\Multidimentional Arrays Lab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\obj\Debug\netcoreapp2.0\Multidimentional Arrays Lab.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\obj\Debug\netcoreapp2.0\Multidimentional Arrays Lab.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\obj\Debug\netcoreapp2.0\Multidimentional Arrays Lab.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\Multidimentional Arrays Lab\obj\Debug\netcoreapp2.0\Multidimentional Arrays Lab.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\bin\Debug\netcoreapp2.0\02.Square With Maximum Sum.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\bin\Debug\netcoreapp2.0\02.Square With Maximum Sum.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\bin\Debug\netcoreapp2.0\02.Square With Maximum Sum.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\bin\Debug\netcoreapp2.0\02.Square With Maximum Sum.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\bin\Debug\netcoreapp2.0\02.Square With Maximum Sum.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\obj\Debug\netcoreapp2.0\02.Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\obj\Debug\netcoreapp2.0\02.Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\obj\Debug\netcoreapp2.0\02.Square With Maximum Sum.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\obj\Debug\netcoreapp2.0\02.Square With Maximum Sum.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\obj\Debug\netcoreapp2.0\02.Square With Maximum Sum.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\02.Square With Maximum Sum\obj\Debug\netcoreapp2.0\02.Square With Maximum Sum.csprojResolveAssemblyReference.cache

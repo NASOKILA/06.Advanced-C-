@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\bin\Debug\netcoreapp2.0\03.Group Numbers.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\bin\Debug\netcoreapp2.0\03.Group Numbers.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\bin\Debug\netcoreapp2.0\03.Group Numbers.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\bin\Debug\netcoreapp2.0\03.Group Numbers.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\bin\Debug\netcoreapp2.0\03.Group Numbers.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\obj\Debug\netcoreapp2.0\03.Group Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\obj\Debug\netcoreapp2.0\03.Group Numbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\obj\Debug\netcoreapp2.0\03.Group Numbers.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\obj\Debug\netcoreapp2.0\03.Group Numbers.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\obj\Debug\netcoreapp2.0\03.Group Numbers.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\03.Group Numbers\obj\Debug\netcoreapp2.0\03.Group Numbers.csprojResolveAssemblyReference.cache

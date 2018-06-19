@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\bin\Debug\netcoreapp2.0\04.Pascal Triangle.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\bin\Debug\netcoreapp2.0\04.Pascal Triangle.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\bin\Debug\netcoreapp2.0\04.Pascal Triangle.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\bin\Debug\netcoreapp2.0\04.Pascal Triangle.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\bin\Debug\netcoreapp2.0\04.Pascal Triangle.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\obj\Debug\netcoreapp2.0\04.Pascal Triangle.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\obj\Debug\netcoreapp2.0\04.Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\obj\Debug\netcoreapp2.0\04.Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\obj\Debug\netcoreapp2.0\04.Pascal Triangle.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\obj\Debug\netcoreapp2.0\04.Pascal Triangle.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\03.Multidimentional Arrays\Multidimentional Arrays Lab\04.Pascal Triangle\obj\Debug\netcoreapp2.0\04.Pascal Triangle.pdb
