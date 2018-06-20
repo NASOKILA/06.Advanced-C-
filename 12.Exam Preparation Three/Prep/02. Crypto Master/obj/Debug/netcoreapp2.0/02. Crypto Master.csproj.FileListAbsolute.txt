@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\bin\Debug\netcoreapp2.0\02. Crypto Master.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\bin\Debug\netcoreapp2.0\02. Crypto Master.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\bin\Debug\netcoreapp2.0\02. Crypto Master.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\bin\Debug\netcoreapp2.0\02. Crypto Master.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\bin\Debug\netcoreapp2.0\02. Crypto Master.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\obj\Debug\netcoreapp2.0\02. Crypto Master.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\obj\Debug\netcoreapp2.0\02. Crypto Master.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\obj\Debug\netcoreapp2.0\02. Crypto Master.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\obj\Debug\netcoreapp2.0\02. Crypto Master.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\obj\Debug\netcoreapp2.0\02. Crypto Master.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\02. Crypto Master\obj\Debug\netcoreapp2.0\02. Crypto Master.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\bin\Debug\netcoreapp2.0\Prep.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\bin\Debug\netcoreapp2.0\Prep.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\bin\Debug\netcoreapp2.0\Prep.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\bin\Debug\netcoreapp2.0\Prep.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\bin\Debug\netcoreapp2.0\Prep.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\obj\Debug\netcoreapp2.0\Prep.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\obj\Debug\netcoreapp2.0\Prep.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\obj\Debug\netcoreapp2.0\Prep.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\obj\Debug\netcoreapp2.0\Prep.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\obj\Debug\netcoreapp2.0\Prep.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\Prep\obj\Debug\netcoreapp2.0\Prep.pdb

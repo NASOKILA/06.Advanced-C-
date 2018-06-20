@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\bin\Debug\netcoreapp2.0\01.Dangerous Floor.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\bin\Debug\netcoreapp2.0\01.Dangerous Floor.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\bin\Debug\netcoreapp2.0\01.Dangerous Floor.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\bin\Debug\netcoreapp2.0\01.Dangerous Floor.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\bin\Debug\netcoreapp2.0\01.Dangerous Floor.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\obj\Debug\netcoreapp2.0\01.Dangerous Floor.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\obj\Debug\netcoreapp2.0\01.Dangerous Floor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\obj\Debug\netcoreapp2.0\01.Dangerous Floor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\obj\Debug\netcoreapp2.0\01.Dangerous Floor.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\obj\Debug\netcoreapp2.0\01.Dangerous Floor.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\01.Dangerous Floor\obj\Debug\netcoreapp2.0\01.Dangerous Floor.pdb

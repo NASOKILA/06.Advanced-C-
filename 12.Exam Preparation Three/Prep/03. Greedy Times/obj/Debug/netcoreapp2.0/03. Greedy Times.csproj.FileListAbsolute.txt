@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\bin\Debug\netcoreapp2.0\03. Greedy Times.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\bin\Debug\netcoreapp2.0\03. Greedy Times.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\bin\Debug\netcoreapp2.0\03. Greedy Times.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\bin\Debug\netcoreapp2.0\03. Greedy Times.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\bin\Debug\netcoreapp2.0\03. Greedy Times.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\obj\Debug\netcoreapp2.0\03. Greedy Times.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\obj\Debug\netcoreapp2.0\03. Greedy Times.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\obj\Debug\netcoreapp2.0\03. Greedy Times.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\obj\Debug\netcoreapp2.0\03. Greedy Times.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\obj\Debug\netcoreapp2.0\03. Greedy Times.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\03. Greedy Times\obj\Debug\netcoreapp2.0\03. Greedy Times.pdb

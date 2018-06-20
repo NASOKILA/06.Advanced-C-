@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\04. Treasute Map\bin\Debug\_04.Treasute_Map.exe.config
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\04. Treasute Map\bin\Debug\_04.Treasute_Map.exe
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\04. Treasute Map\bin\Debug\_04.Treasute_Map.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\04. Treasute Map\obj\Debug\04. Treasute Map.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\04. Treasute Map\obj\Debug\04. Treasute Map.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\04. Treasute Map\obj\Debug\_04.Treasute_Map.exe
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\C# Advanced\11.Exam Prep 3 September 2017\Prep\04. Treasute Map\obj\Debug\_04.Treasute_Map.pdb
