@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.0\NOTES.deps.json
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.0\NOTES.runtimeconfig.json
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.0\NOTES.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.0\NOTES.dll
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.0\NOTES.pdb
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.0\NOTES.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.0\NOTES.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.0\NOTES.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.0\NOTES.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.0\NOTES.dll
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.0\NOTES.pdb

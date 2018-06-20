@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\bin\Debug\netcoreapp2.0\02.Zadacha2.deps.json
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\bin\Debug\netcoreapp2.0\02.Zadacha2.runtimeconfig.json
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\bin\Debug\netcoreapp2.0\02.Zadacha2.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\bin\Debug\netcoreapp2.0\02.Zadacha2.dll
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\bin\Debug\netcoreapp2.0\02.Zadacha2.pdb
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\obj\Debug\netcoreapp2.0\02.Zadacha2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\obj\Debug\netcoreapp2.0\02.Zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\obj\Debug\netcoreapp2.0\02.Zadacha2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\obj\Debug\netcoreapp2.0\02.Zadacha2.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\obj\Debug\netcoreapp2.0\02.Zadacha2.dll
+C:\Users\user\Desktop\C# Exam Standart\ExamCSharp\02.Zadacha2\obj\Debug\netcoreapp2.0\02.Zadacha2.pdb
