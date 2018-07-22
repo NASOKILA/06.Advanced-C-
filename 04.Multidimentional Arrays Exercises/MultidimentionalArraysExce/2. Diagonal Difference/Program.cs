@@ -7,7 +7,6 @@ namespace _2._Diagonal_Difference
     {
         static void Main(string[] args)
         {
-
             int n = int.Parse(Console.ReadLine());
             long[,] matrix = new long[n,n];
 
@@ -21,21 +20,7 @@ namespace _2._Diagonal_Difference
                 {
                     matrix[i,j] = row[j];
                 }
-
             }
-
-            /*
-            //print just to see
-            Console.WriteLine();
-            for (int row = 0; row < n; row++)
-            {
-                for (int col = 0; col < n; col++)
-                {
-                    Console.Write(matrix[row, col] + " ");
-                }
-                Console.WriteLine();
-            }
-            */
 
             long leftDiagonalSum = 0;
             int counterRow = 0;

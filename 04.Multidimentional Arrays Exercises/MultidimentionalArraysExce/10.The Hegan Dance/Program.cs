@@ -11,6 +11,7 @@ namespace _10.The_Hegan_Dance
         public bool IsHitByCloud { get; set; }
 
     }
+	
     class Program
     {
         static void Main(string[] args)
@@ -28,7 +29,6 @@ namespace _10.The_Hegan_Dance
 
             while (true)
             {
-                // Check for spell influence from previous step
                 if (player.IsHitByCloud)
                 {
                     player.Blood -= 3500;
@@ -37,7 +37,6 @@ namespace _10.The_Hegan_Dance
 
                 bossHeiganBlood -= player.Damage;
 
-                // Check winn and loss
                 if (IsGameOver(player, bossHeiganBlood, spell))
                 {
                     break;
@@ -102,28 +101,28 @@ namespace _10.The_Hegan_Dance
         private static bool IsPlayerDamaged(Player player, int hitRow, int hitCol)
         {
             if (player.Position[0] > 0 &&
-                !IsCellReached(player.Position[0] - 1, player.Position[1], hitRow, hitCol)) // Try move Up
+                !IsCellReached(player.Position[0] - 1, player.Position[1], hitRow, hitCol)) 
             {
                 player.Position[0]--;
                 return false;
             }
 
-            if (player.Position[1] + 1 < 15 && // Dancing area is 15 by 15 matrix
-                !IsCellReached(player.Position[0], player.Position[1] + 1, hitRow, hitCol)) // Try move Right
+            if (player.Position[1] + 1 < 15 && 
+                !IsCellReached(player.Position[0], player.Position[1] + 1, hitRow, hitCol)) 
             {
                 player.Position[1]++;
                 return false;
             }
 
-            if (player.Position[0] + 1 < 15 && // Dancing area is 15 by 15 matrix
-                !IsCellReached(player.Position[0] + 1, player.Position[1], hitRow, hitCol)) // Try move Down
+            if (player.Position[0] + 1 < 15 && 
+                !IsCellReached(player.Position[0] + 1, player.Position[1], hitRow, hitCol)) 
             {
                 player.Position[0]++;
                 return false;
             }
 
             if (player.Position[1] > 0 &&
-                !IsCellReached(player.Position[0], player.Position[1] - 1, hitRow, hitCol)) // Try move Left
+                !IsCellReached(player.Position[0], player.Position[1] - 1, hitRow, hitCol)) 
             {
                 player.Position[1]--;
                 return false;

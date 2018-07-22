@@ -29,10 +29,8 @@ namespace _11.Parking_System
                 var carEntranceRow = int.Parse(input[0]);
                 var carParkingArim = new Cell(int.Parse(input[1]), int.Parse(input[2]));
 
-                // Process car
                 if (IsCarParked(carParkingArim, usedCells, parkingDimensionsRolCol))
                 {
-                    // Print distance travelled to the park
                     Console.WriteLine(Math.Abs((carEntranceRow + 1) - (carParkingArim.Row + 1)) + carParkingArim.Column + 1);
                     usedCells.Add(carParkingArim);
                 }
@@ -47,7 +45,6 @@ namespace _11.Parking_System
 
         private static bool IsCarParked(Cell carParkingArim, HashSet<Cell> usedCells, int[] parkingDimensions)
         {
-            // Try park
             if (usedCells.Where(c => c.Row == carParkingArim.Row && c.Column == carParkingArim.Column)
                 .FirstOrDefault() == null)
             {
@@ -56,7 +53,6 @@ namespace _11.Parking_System
 
             var testCol = 1;
 
-            // Loop around the row to find free cell to park
             while (true)
             {
                 var leftCol = carParkingArim.Column - testCol;
@@ -67,7 +63,6 @@ namespace _11.Parking_System
                     break;
                 }
 
-                // Try park left
                 if (leftCol > 0 &&
                     usedCells.Where(c => c.Row == carParkingArim.Row && c.Column == leftCol)
                     .FirstOrDefault() == null)
@@ -76,7 +71,6 @@ namespace _11.Parking_System
                     return true;
                 }
 
-                // Try park right
                 if (rightCol < parkingDimensions[1] &&
                     usedCells.Where(c => c.Row == carParkingArim.Row && c.Column == rightCol)
                     .FirstOrDefault() == null)
@@ -97,5 +91,4 @@ namespace _11.Parking_System
             return new int[] { dimmensions[0], dimmensions[1] };
         }
     }
-    
 }

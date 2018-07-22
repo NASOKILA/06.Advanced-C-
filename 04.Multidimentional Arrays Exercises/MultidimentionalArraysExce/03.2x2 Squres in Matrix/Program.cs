@@ -26,20 +26,6 @@ namespace _03._2x2_Squres_in_Matrix
                 
             }
         
-            /*
-            //print just to see
-            Console.WriteLine();
-            for (int row = 0; row < matrix.GetLength(0); row++)
-            {
-                for (int col = 0; col < matrix.GetLength(1); col++)
-                {
-                    Console.Write((char)matrix[row, col] + " ");
-                }
-
-                Console.WriteLine();
-            }
-
-            */
             int matchesCount = 0;
             for (int row = 0; row < matrix.GetLength(0)-1; row++)
             {
@@ -52,13 +38,9 @@ namespace _03._2x2_Squres_in_Matrix
                         matchesCount++;
                     }
                 }
-                
             }
             
-                Console.WriteLine(matchesCount);
-
-
-
+            Console.WriteLine(matchesCount);
         }
     }
 }

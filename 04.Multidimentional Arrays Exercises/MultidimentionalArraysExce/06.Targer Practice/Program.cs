@@ -7,7 +7,6 @@ namespace _06.Targer_Practice
     {
         static void Main(string[] args)
         {
-
             int[] dimantions = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
                  .Select(int.Parse)
                  .ToArray();
@@ -21,15 +20,11 @@ namespace _06.Targer_Practice
                  .Select(int.Parse)
                  .ToArray();
 
-            //TRQBVA DA Q NAPULNIM PO ZIG ZAG
             char[,] matrix = fillMatrix(snake, rows, cols);
 
             matrix = FireShot(shot, matrix);
+            matrix = Gravity(matrix);
 
-             matrix = Gravity(matrix);
-
-
-            //Print
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
@@ -37,16 +32,12 @@ namespace _06.Targer_Practice
 
                 Console.WriteLine();
             }
-
         }
 
         private static char[,] Gravity(char[,] matrix)
-        {
-            //minavame prez vsichki koloni i za vsqka da proverqvame za prazni mesta
-            
+        {         
             for (int col = 0; col < matrix.GetLength(1); col++)
             {
-
                 int emptyRows = 0;
                 for (int row = matrix.GetLength(0) - 1; row >= 0; row--)
                 {
@@ -61,7 +52,6 @@ namespace _06.Targer_Practice
                     }
                 }
             }   
-
             return matrix;
         }
 
@@ -96,15 +86,11 @@ namespace _06.Targer_Practice
             bool isGoingLeft = true;
 
             int snakeIndex = 0;
-            //Sega zapochvame da q pulnim
 
             for (int row = rows - 1; row >= 0; row--)
             {
-                //Ako zapochvame ot lqvo znachi zapohvame ot indexa na maximalniq broi koloni
-                //Inache  zapochvame ot index 0
                 int index = isGoingLeft ? matrix.GetLength(1) - 1 : 0;
 
-                //Ako otivame nalqvo shte e -1 a ako otivame na dqsno shte e ravno na 1
                 int increment = isGoingLeft ? -1 : 1;
                 
                 for (int col = 0; col < cols; col++)
@@ -117,7 +103,6 @@ namespace _06.Targer_Practice
                     index += increment;
                 }
 
-                //Kato stignem kraq na reda se obrushtame na drugata strana.
                 isGoingLeft = !isGoingLeft;
             }
 

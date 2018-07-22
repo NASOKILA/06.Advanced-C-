@@ -7,7 +7,6 @@ namespace _01.Matrix_of_Palindromes
     {
         static void Main(string[] args)
         {
-
             int[] input = Console.ReadLine()
                 .Split(' ')
                 .Select(int.Parse)
@@ -30,10 +29,6 @@ namespace _01.Matrix_of_Palindromes
                 Console.WriteLine();
                 counter = 0;
             }
-
-
-           
-
         }
     }
 }

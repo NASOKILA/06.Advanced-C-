@@ -11,7 +11,6 @@ namespace _12.String_Matrix_Rotation
             string[] input = Console.ReadLine().Split('(').ToArray();
             
             int rotation = int.Parse(input[1].Substring(0, input[1].Length - 1));
-            //Console.WriteLine(rotation);
 
             List<string> commands = new List<string>();
             string command = Console.ReadLine();
@@ -26,7 +25,6 @@ namespace _12.String_Matrix_Rotation
 
             int matrixColumns = commands.OrderByDescending(c => c.Length).First().Length;
             
-            //create and fill the matrix
             char[,] matrix = new char[matrixRows, matrixColumns];
             int column = -1;
             for(int row = 0; row < commands.Count; row++){
@@ -34,43 +32,33 @@ namespace _12.String_Matrix_Rotation
                 foreach (char ch in commands[row])
                     matrix[row, ++column] = ch;
 
-                column = -1;
-                
+                column = -1;     
             }
 
-
-            //VIJ KAK DA SMQTASH ROTATIONA
-           
-            //rotate
             if (rotation == 90 || rotation % 360 == 90)
             {
-                //                                rows           cols
+
                 char[,] rotatedMatrix = new char[matrixColumns, matrixRows];
                 commands.Reverse();
 
-
                 int col = 0;
-                for (int i = 0; i < rotatedMatrix.GetLength(1); i++) // do 3
+                for (int i = 0; i < rotatedMatrix.GetLength(1); i++) 
                 {
                     string elementToMove = commands[i];
 
                     int index = 0;
                     for (int row = 0; row < rotatedMatrix.GetLength(0); row++)
                     {
-
                         if (row >= elementToMove.Length)
                             break;
 
                         char letter = (char)elementToMove[index++];
 
-
                         rotatedMatrix[row, col] = letter;
                     }
-
                     col++;
                 }
 
-                //print final matrix
                 for (int i = 0; i < rotatedMatrix.GetLength(0); i++)
                 {
                     for (int j = 0; j < rotatedMatrix.GetLength(1); j++)
@@ -88,7 +76,6 @@ namespace _12.String_Matrix_Rotation
 
                 for (int i = 0; i < rotatedMatrix.GetLength(0); i++)
                 {
-
                     string reverseElement = commands[i];
 
                     int index = 0;
@@ -98,11 +85,8 @@ namespace _12.String_Matrix_Rotation
                             break;
                         rotatedMatrix[i, j] = reverseElement[index++];
                     }
-
                 }
 
-
-                //print final matrix
                 for (int i = 0; i < rotatedMatrix.GetLength(0); i++)
                 {
                     for (int j = 0; j < rotatedMatrix.GetLength(1); j++)
@@ -111,15 +95,10 @@ namespace _12.String_Matrix_Rotation
                     }
                     Console.WriteLine();
                 }
-
             }
             else if (rotation == 270 || rotation % 360 == 270)
             {
-
                 char[,] rotatedMatrix = new char[matrixColumns, matrixRows];
-
-
-
                 int col = 0;
                 for (int i = 0; i < rotatedMatrix.GetLength(1); i++) // do 3
                 {
@@ -128,7 +107,6 @@ namespace _12.String_Matrix_Rotation
                     int index = 0;
                     for (int row = rotatedMatrix.GetLength(0) - 1; row >= 0; row--)
                     {
-
                         if (index >= elementToMove.Length)
                             break;
 
@@ -139,8 +117,6 @@ namespace _12.String_Matrix_Rotation
                     col++;
                 }
 
-
-                //print final matrix
                 for (int i = 0; i < rotatedMatrix.GetLength(0); i++)
                 {
                     for (int j = 0; j < rotatedMatrix.GetLength(1); j++)
@@ -152,7 +128,6 @@ namespace _12.String_Matrix_Rotation
             }
             else if (rotation == 0 || rotation == 360 || rotation % 360 == 0)
             {
-                //print final matrix
                 for (int i = 0; i < matrix.GetLength(0); i++)
                 {
                     for (int j = 0; j < matrix.GetLength(1); j++)
@@ -162,7 +137,6 @@ namespace _12.String_Matrix_Rotation
                     Console.WriteLine();
                 }
             }
-
         }
     }
 }

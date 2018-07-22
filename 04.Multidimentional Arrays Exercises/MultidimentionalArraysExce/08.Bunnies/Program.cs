@@ -7,7 +7,6 @@ namespace _08.Bunnies
     {
         static void Main(string[] args)
         {
-
         }
     }
 }

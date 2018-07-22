@@ -6,16 +6,12 @@ namespace _05.Rubiks_Matrix
 {
     class Program
     {
-
         private static int[][] matrix = new int[1][];
         private static int rows = 0;
         private static int cols = 0;
 
         static void Main(string[] args)
         {
-
-            
-
             int[] input = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
                .Select(int.Parse)
                .ToArray();
@@ -23,7 +19,6 @@ namespace _05.Rubiks_Matrix
             rows = input[0];
             cols = input[1];
             long[,] matrix = new long[rows, cols];
-
 
             int counter = 0;
             for (int i = 0; i < matrix.GetLength(0); i++)
@@ -34,13 +29,10 @@ namespace _05.Rubiks_Matrix
                 }
             }
 
-
-
             int commands = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < commands; i++)
             {
-
                 string[] command = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
                     .ToArray();
 
@@ -48,31 +40,18 @@ namespace _05.Rubiks_Matrix
                 string direction = command[1];
                 long rotations = long.Parse(command[0]);
 
-
-                //shte mestim cql red nagore ili na dolo
                 if (direction == "down" || direction == "up")
                 {
-
                     moveUpOrDown(index, rotations, direction);
                 }
                 else if (direction == "left" || direction == "right")
                 {
                     moveLeftOrRight(index, rotations, direction);
-                }
-                
-
-                // 1 2 3
-                // 4 5 6
-                // 7 8 9
-
-
-
+                }     
             }
 
-
-            //print just to see
-            // matrix
             Console.WriteLine();
+			
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
@@ -82,13 +61,11 @@ namespace _05.Rubiks_Matrix
 
                 Console.WriteLine();
             }
-            
-
+           
             long[,] initialMatrix = new long[rows, cols];
             int counter2 = 1;
             for (int i = 0; i < initialMatrix.GetLength(0); i++)
             {
-
                 for (int j = 0; j < initialMatrix.GetLength(1); j++)
                 {
                     initialMatrix[i, j] = counter2;
@@ -96,9 +73,6 @@ namespace _05.Rubiks_Matrix
                 }
             }
             
-
-            //print just to see
-            //initial matrix
             Console.WriteLine();
             for (int row = 0; row < initialMatrix.GetLength(0); row++)
             {
@@ -110,8 +84,6 @@ namespace _05.Rubiks_Matrix
                 Console.WriteLine();
             }
             
-
-            //we changd the matrix now lets proceed
             for (int r = 0; r < matrix.GetLength(0); r++)
             {
                 for (int c = 0; c < matrix.GetLength(1); c++)
@@ -124,26 +96,21 @@ namespace _05.Rubiks_Matrix
                     }
                     else
                     {
-
                         for (int r2 = 0; r2 < matrix.GetLength(0); r2++)
                         {
                             for (int c2 = 0; c2 < matrix.GetLength(1); c2++)
                             {
                                 
                                 if (matrix[r2, c2] == normalElemnt) {
-                                    //WE HAVE TO ACTUALLY SWAP THE ELEMENT
                                     matrix[r, c] = normalElemnt;
                                     matrix[r2, c2] = changedElement;
                                     Console.WriteLine($"Swap ({r},{c}) with ({r2}, {c2})");
                                 }
-                                
                             }
                         }
-
                     }
                 }
             }
-
         }
 
         private static void moveLeftOrRight(int line, long moves, string direction)
@@ -225,6 +192,5 @@ namespace _05.Rubiks_Matrix
                 }
             }
         }
-
     }
 }

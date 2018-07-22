@@ -23,24 +23,7 @@ namespace _04.Maximal_Sum
 
                 for (int j = 0; j < matrix.GetLength(1); j++)
                     matrix[i, j] = row[j];
-
             }
-
-            /*
-            //print just to see
-            Console.WriteLine();
-            for (int row = 0; row < matrix.GetLength(0); row++)
-            {
-                for (int col = 0; col < matrix.GetLength(1); col++)
-                {
-                    Console.Write(matrix[row, col] + " ");
-                }
-
-                Console.WriteLine();
-            }
-            */
-
-
 
             long sumOfMax3x3Square = 0;
             long[,] maxSquare = new long[3, 3];
@@ -49,8 +32,6 @@ namespace _04.Maximal_Sum
             {
                 for (int col = 0; col < matrix.GetLength(1) - 2; col++)
                 {
-
-                    //Take the 3x3 square
                     long currentSquareSum = 0;
                     long[,] square = new long[3, 3];
 
@@ -65,7 +46,6 @@ namespace _04.Maximal_Sum
                     square[2, 0] = long.Parse(matrix[row+2, col].ToString());
                     square[2, 1] = long.Parse(matrix[row+2, col+1].ToString());
                     square[2, 2] = long.Parse(matrix[row+2, col+2].ToString());
-
 
                     currentSquareSum += long.Parse(matrix[row, col].ToString());
                     currentSquareSum += long.Parse(matrix[row, col + 1].ToString());
@@ -84,10 +64,7 @@ namespace _04.Maximal_Sum
                         sumOfMax3x3Square = currentSquareSum;
                         maxSquare = square;
                     }
-
-
                 }
-
             }
 
             Console.WriteLine("Sum = " + sumOfMax3x3Square);
@@ -97,11 +74,9 @@ namespace _04.Maximal_Sum
                 {
                     Console.Write( maxSquare[i,j] + " "); 
                 }
+				
                 Console.WriteLine();
             }
-
-
-
         }
     }
 }

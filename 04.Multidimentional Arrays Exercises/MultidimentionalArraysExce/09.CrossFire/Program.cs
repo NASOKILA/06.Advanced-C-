@@ -14,8 +14,8 @@ namespace _09.CrossFire
 
             int rows = dimentions[0];
             int cols = dimentions[1];
-            //fill the lists
             int counter = 0;
+			
             for (int row = 0; row < rows; row++)
             {
                 List<int> currentRow = new List<int>();
@@ -26,8 +26,8 @@ namespace _09.CrossFire
                 matrix.Add(currentRow);
             }
  
-            //Follow and apply the commands
             string input = Console.ReadLine();
+			
             while (input != "Nuke it from orbit") {
 
                 int[] destroyData = input
@@ -39,21 +39,16 @@ namespace _09.CrossFire
                 int colIndex = destroyData[1];
                 int radius = destroyData[2];
 
-
                 for (int i = 0; i < matrix.Count; i++)
                 {
                     for (int j = 0; j < matrix[i].Count; j++)
                     {
-
                         var cell = matrix[i][j];
                         int distance = 0;
 
-
                         if (i == rowIndex && j == colIndex)
                         {
-                            //delete the elements by using the radius
-                           
-                            //remove the elements above it
+                            
                             for (int ii = 1; ii <= radius; ii++)
                             {
                                 try
@@ -64,7 +59,6 @@ namespace _09.CrossFire
                                 catch { }
                             }
 
-                            //remove elements below it
                             for (int i = 1; i <= radius; i++)
                             {
                                 try
@@ -75,7 +69,6 @@ namespace _09.CrossFire
                                 catch { }
                             }
 
-                            //remove elements on the left
                             int removedLeftElements = 0;
                             for (int i = 1; i <= radius; i++)
                             {
@@ -89,8 +82,6 @@ namespace _09.CrossFire
                             }
                             col = col - removedLeftElements;
 
-                            //remove elements on the right + the elements itself
-
                             for (int i = 1; i <= radius; i++)
                             {
                                 try
@@ -100,19 +91,14 @@ namespace _09.CrossFire
                                     
                                 }
                                 catch { }
-                            }
-                            
-                            
+                            }                          
                         }
                     }
                 }
 
-
-
                 input = Console.ReadLine();
             }
 
-            //Print
             for (int row = 0; row < matrix.Count; row++)
             {
                 for (int col = 0; col < matrix[row].Count; col++)
@@ -120,7 +106,6 @@ namespace _09.CrossFire
 
                 Console.WriteLine();
             }
-
         }
     }
 }

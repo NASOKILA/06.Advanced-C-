@@ -12,7 +12,6 @@ namespace _07.Lego_Blocks
             int[][] jaggedOne = new int[n][];
             int[][] jaggedTwo = new int[n][];
 
-            //One
             for (int row = 0; row < n; row++)
             {
                 jaggedOne[row] = Console.ReadLine()
@@ -21,7 +20,6 @@ namespace _07.Lego_Blocks
                     .ToArray();
             }
 
-            //Two
             for (int row = 0; row < n; row++)
             {
                 jaggedTwo[row] = Console.ReadLine()
@@ -30,14 +28,9 @@ namespace _07.Lego_Blocks
                     .ToArray();
             }
             
-
-            //reverse the second jaggeed array
             for (int row = 0; row < jaggedTwo.GetLength(0); row++)
                 Array.Reverse(jaggedTwo[row]);
-            
-
-            //proverqvame dali duljinite sa kato duljnata na purviq red
-        
+           
             List<int> totalRowLength = new List<int>();
 
             for (int row = 0; row < n; row++)
@@ -49,7 +42,6 @@ namespace _07.Lego_Blocks
 
             if (totalRowLength.Any(e => e != totalRowLength[0]))
             {
-                //Ako ne suvpadat elementite
                 int totalLength = 0;
                 for (int row = 0; row < n; row++)
                     totalLength += jaggedOne[row].Length + jaggedTwo[row].Length;
@@ -64,8 +56,6 @@ namespace _07.Lego_Blocks
                     Console.WriteLine(string.Join(", ", jaggedTwo[row]) + "]");
                 }
             }
-
-
         }
     }
 }
