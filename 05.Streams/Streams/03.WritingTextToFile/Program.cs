@@ -13,7 +13,6 @@ namespace _03.WritingTextToFile
                 var bytes = System.Text.Encoding.UTF8.GetBytes(test);
                 stream.Write(bytes, 0, bytes.Length);    
             }
-
         }
     }
 }
