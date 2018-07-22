@@ -8,10 +8,8 @@ namespace _02.Simple_Calculator
     {
         static void Main(string[] args)
         {
-
             string[] input = Console.ReadLine().Split(' ').Reverse().ToArray();
-            //Array.Reverse(input);
-
+            
             Stack<string> stack = new Stack<string>(input);
             
             while (stack.Count != 1) {
@@ -34,13 +32,9 @@ namespace _02.Simple_Calculator
                     result = firstNum * secondNum;
                 
                 stack.Push(result.ToString());
-                
             }
 
             Console.WriteLine(stack.Pop());
-
         }
     }
 }
-
-

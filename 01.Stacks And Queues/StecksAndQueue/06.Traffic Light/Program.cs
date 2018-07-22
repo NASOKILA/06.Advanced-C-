@@ -7,7 +7,6 @@ namespace _06.Traffic_Light
     {
         static void Main(string[] args)
         {
-
             int n = int.Parse(Console.ReadLine());
 
             string command = Console.ReadLine();
@@ -19,7 +18,6 @@ namespace _06.Traffic_Light
 
                 if (command == "green")
                 {
-
                     int carsToPass = Math.Min(n, queue.Count);
                     for(int i = 0; i < carsToPass; i++){
 
@@ -30,13 +28,10 @@ namespace _06.Traffic_Light
                else
                 queue.Enqueue(command);
 
-
                 command = Console.ReadLine();
             }
-            
-
+           
             Console.WriteLine(carsPassed + " cars passed the crossroads.");
-
         }
     }
 }

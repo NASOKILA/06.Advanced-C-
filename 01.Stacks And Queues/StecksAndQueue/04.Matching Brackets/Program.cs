@@ -17,21 +17,15 @@ namespace _04.Matching_Brackets
                 char currentElem = input[i];
 
                 if (currentElem == '(')
-                    stackIndexes.Push(i); // vkarvame oziciqta na '(' v steka
-
+                    stackIndexes.Push(i); 
+				
                 if (currentElem == ')'){
 
-                    //VAJNOOOOOOOOOOOOOOOO !!!!!!!!!!!!!
-                    //Vzimame posledniq element vkaran v steka koito e indexa na posledniq '(' element a ne na purviq.
                     int openBracketIndex = stackIndexes.Pop(); // vzimame go i go mahame
 
-                    //Trqbva ni duljinata za da otrejem parcheto:
-                    //duljinata e = na tekushtiq index - indexa na otvarqshtata skoba
                     int length = i - openBracketIndex;
 
-                    //rejem i printirame parcheto
                     Console.WriteLine(input.Substring(openBracketIndex, length+1));
-
                 }
             }
         }
