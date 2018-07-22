@@ -24,12 +24,10 @@ namespace _03._Maximum_Element
                     .ToArray();
 
                 if (command[0] == 1){
-
                     stack.Push(command[1]);
 
-                    //Samo ako chisloto e po golqmo ot poslednoto v maxElements go slagame vutre
-                    if (command[1] >= maxElements.Peek())
-                        maxElements.Push(command[1]);
+                if (command[1] >= maxElements.Peek())
+                    maxElements.Push(command[1]);
 
                 }else if (command[0] == 2){
                     
@@ -41,7 +39,6 @@ namespace _03._Maximum_Element
                 else if (command[0] == 3) {
                     Console.WriteLine(maxElements.Peek());
                 }
-                
             }
         }
     }

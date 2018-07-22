@@ -8,7 +8,6 @@ namespace _02._Basic_Stack_Operations
     {
         static void Main(string[] args)
         {
-
             List<int> input = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
 
             int elementsToPush = input[0];
@@ -31,9 +30,7 @@ namespace _02._Basic_Stack_Operations
             else if (stack.Contains(elementToFind))
                 Console.WriteLine("true");
             else           
-                Console.WriteLine(stack.Min());
-            
-
+                Console.WriteLine(stack.Min()); 
         }
     }
 }

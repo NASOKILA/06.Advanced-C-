@@ -10,7 +10,6 @@ namespace _10.SimpleTextEditor
 
         static void Main(string[] args)
         {
-
             int n = Convert.ToInt32(Console.ReadLine());
 
             Stack<string> oldVersons = new Stack<string>();
@@ -33,8 +32,7 @@ namespace _10.SimpleTextEditor
                     oldVersons.Push(text);
 
                 } else if (command == 2){
-
-                    
+					
                     int length = Convert.ToInt32(input[1]);
                     text = text.Remove(text.Length - length, length);
                     oldVersons.Push(text);
@@ -52,9 +50,7 @@ namespace _10.SimpleTextEditor
                     text = string.Empty;
                     text += oldVersons.Peek();
                 }
-            }
-            
-
+            }     
         }
     }
 }

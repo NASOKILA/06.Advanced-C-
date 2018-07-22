@@ -8,18 +8,15 @@ namespace _01.Reverse_Numbers_with_a_Stack
     {
         static void Main(string[] args)
         {
-
             List<string> numbers = Console.ReadLine()
                 .Split(' ')
                 .ToList();
 
             Stack<string> stack = new Stack<string>(numbers);
-
             
             while (stack.Count > 0) {
                 Console.Write(stack.Pop().ToString() + ' ');
-            }
-            
+            }         
         }
     }
 }

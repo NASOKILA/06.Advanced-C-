@@ -13,7 +13,6 @@ namespace _09._Stack_Fibonacci
             stack.Push(0);
             stack.Push(1);
             
-            
             for (int i = 0; i < n; i++) {
 
                 int secondNum = stack.Pop();
@@ -23,8 +22,8 @@ namespace _09._Stack_Fibonacci
                 stack.Push(secondNum + firstNum);
             }
             stack.Pop();
+			
             Console.WriteLine(stack.Peek());
-           
         }
     }
 }

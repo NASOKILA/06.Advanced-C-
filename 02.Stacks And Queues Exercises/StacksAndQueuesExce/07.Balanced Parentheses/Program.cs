@@ -8,25 +8,20 @@ namespace _07.Balanced_Parentheses
     {
         static void Main(string[] args)
         {
-
             char[] input = Console.ReadLine().ToCharArray();
-
             char[] opened = new[] { '(', '[', '{' };
             char[] closed = new[] { ')', ']', '}' };
 
             Stack<char> stack = new Stack<char>();
             
-
             for (int i = 0; i < input.Length; i++)
             {
-
                 char currentElement = input[i];
 
                 if (opened.Contains(currentElement))
                     stack.Push(currentElement);
                 else
                 {
-                    // ) ] }
                     if (stack.Count == 0
                         && (closed.Contains(currentElement)))
                     {
@@ -59,24 +54,9 @@ namespace _07.Balanced_Parentheses
                             return;
                         }
                     }
-
                 }
             }
-
                 Console.WriteLine("YES");    
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

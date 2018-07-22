@@ -17,7 +17,6 @@ namespace _05._Sequence_With_Queue
 
             while (true)
             {
-
                 realNumbers.Enqueue(queue.Peek() + 1);
                 realNumbers.Enqueue((2 * queue.Peek()) + 1);
                 realNumbers.Enqueue(queue.Peek() + 2);
@@ -26,7 +25,7 @@ namespace _05._Sequence_With_Queue
                 queue.Enqueue((2 * queue.Peek()) + 1);
                 queue.Enqueue(queue.Peek() + 2);
 
-                queue.Dequeue(); // mahame predishnoto
+                queue.Dequeue();
 
                 if (realNumbers.Count >= 50)
                     break;
@@ -34,7 +33,6 @@ namespace _05._Sequence_With_Queue
 
             for (long i = 0; i < 50; i++)
                 Console.Write(realNumbers.Dequeue().ToString() + ' ');
-
         }
     }
 }

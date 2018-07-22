@@ -21,7 +21,6 @@ namespace _04._Basic_Queue_Operations
             for (int i = 0; i < elementsToPush; i++)
                 queue.Enqueue(numbers[i]);
 
-
             for (int i = 0; i < elementsToPop; i++)
                 queue.Dequeue();
 
@@ -31,7 +30,6 @@ namespace _04._Basic_Queue_Operations
                 Console.WriteLine("true");
             else
                 Console.WriteLine(queue.Min());
-
         }
     }
 }

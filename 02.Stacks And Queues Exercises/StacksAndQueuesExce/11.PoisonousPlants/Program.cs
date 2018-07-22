@@ -8,7 +8,6 @@ namespace _11.PoisonousPlants
     {
         static void Main(string[] args)
         {
-
             int n = Convert.ToInt32(Console.ReadLine());
 
             List<int> plantsInput = Console.ReadLine()
@@ -21,9 +20,7 @@ namespace _11.PoisonousPlants
             Queue<int> deathPlants = new Queue<int>();
 
             while (true) {
-
-                
-
+				
                 for (int i = 0; i < plantsInput.Count - 1; i++)
                 {
                     int currentPlant = plantsInput[i];
@@ -52,6 +49,5 @@ namespace _11.PoisonousPlants
 
             return plantsInput;
         }
-
     }
 }
