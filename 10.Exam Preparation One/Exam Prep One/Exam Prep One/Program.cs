@@ -10,10 +10,6 @@ namespace Exam_Prep_One
     class Program
     {
         static void Main(string[] args)
-        {
-
-           
-
-        }
+        {}
     }
 }

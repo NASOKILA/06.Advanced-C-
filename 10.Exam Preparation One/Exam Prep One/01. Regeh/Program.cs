@@ -42,13 +42,11 @@ namespace _01.Regeh
 
                 if (input.Length > realNumber)
                 {
-                    result += input[realNumber];
-                   
+                    result += input[realNumber];                   
                 }
                     
                 else {
                     result += input[(realNumber - input.Length)+1];
-
                 }
             }
 

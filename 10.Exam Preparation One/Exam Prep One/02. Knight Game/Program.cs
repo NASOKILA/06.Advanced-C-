@@ -14,7 +14,6 @@ namespace _02.Knight_Game
 
             var knightsIndexesAndAttacks = new Dictionary<int[], int>();
 
-
             int kingsCount = 0;
 
             char[,] matrix = new char[n, n];
@@ -23,7 +22,6 @@ namespace _02.Knight_Game
             {
                 var currentRow2 = Console.ReadLine().ToCharArray();
                 char[] currentRow = currentRow2.Where(e => e != ' ').ToArray();
-
 
                 for (int col = 0; col < currentRow.Length; col++)
                 {
@@ -39,17 +37,9 @@ namespace _02.Knight_Game
                 return;
             }
 
-            //iterate the matrix
             IterateTheMatrix(n, knightsIndexesAndAttacks, matrix);
 
-
-            //Remove the most aggressive horse and try again
-            //oder dictionary by highest value
-
             int removedKnights = 0;
-
-
-            //ako vsichkite sa nuli izlizame
 
             while (knightsIndexesAndAttacks.Values.Any(e => e != 0))
             {
@@ -57,53 +47,17 @@ namespace _02.Knight_Game
                 myList
                     .Sort((a, b) => b.Value.CompareTo(a.Value));
 
-                //vzimame row i col i mahame ot matricata
                     int row = myList.First().Key.First();
                     int col = myList.First().Key.Last();
 
                     matrix[row, col] = (char)48;
                     removedKnights++;
 
-
-
-                
-
-                knightsIndexesAndAttacks = new Dictionary<int[], int>();
-                    //iterate the matrix
+                knightsIndexesAndAttacks = new Dictionary<int[], int>();         
                     IterateTheMatrix(n, knightsIndexesAndAttacks, matrix);
-
-                
-
             }
 
             Console.WriteLine(removedKnights);
-
-
-            //Print(matrix);
-
-
-
-            /*
-8
-0K0KKK00
-0K00KKKK
-00K0000K
-KKKKKK0K
-K0K0000K
-KK00000K
-00K0K000
-000K00KK
-
-5 
-0K0K0
-K000K
-00K00
-K000K
-0K0K0
-
-
-
-            */
 
         }
 
@@ -123,27 +77,8 @@ K000K
                         if (knightsIndexesAndAttacks.ContainsKey(indexes))
                             attacks = knightsIndexesAndAttacks[indexes];
 
-                        /*
-                         Attack types:
-                         .1 row+1 col-2
-                         .2 row+1 col+2
-                         .3 row-1 col-2
-                         .4 row-1 col+2
-
-                         .5 row+2 col-1
-                         .6 row+2 col+1
-                         .7 row-2 col-1
-                         .8 row-2 col+1
-
-                         */
-
-
-                        //Za vseki kon proverqvame za ataki.
-
-                        //GLEDAME DVE NA STRANI I EDNO NA DOLO ILI NA GORE
                         try
                         {
-
                             char piece = matrix[row + 1, col - 2];
                             if (piece == 'K')
                                 attacks++;
@@ -153,7 +88,6 @@ K000K
 
                         try
                         {
-
                             char piece = matrix[row + 1, col + 2];
                             if (piece == 'K')
                                 attacks++;
@@ -172,7 +106,6 @@ K000K
 
                         try
                         {
-
                             char piece = matrix[row - 1, col + 2];
                             if (piece == 'K')
                                 attacks++;
@@ -180,10 +113,8 @@ K000K
                         catch
                         { }
 
-                        //GLEDAME DVE NA DOLO ILI NA GORE I EDNO NA STRANI
                         try
                         {
-
                             char piece = matrix[row + 2, col - 1];
                             if (piece == 'K')
                                 attacks++;
@@ -200,6 +131,7 @@ K000K
                         }
                         catch
                         { }
+						
                         try
                         {
                             char piece = matrix[row - 2, col - 1];
@@ -208,6 +140,7 @@ K000K
                         }
                         catch
                         { }
+						
                         try
                         {
                             char piece = matrix[row - 2, col + 1];
@@ -216,12 +149,10 @@ K000K
                         }
                         catch
                         { }
+						
                         knightsIndexesAndAttacks[indexes] = attacks;
-
                     }
-
                 }
-
             }
         }
 
