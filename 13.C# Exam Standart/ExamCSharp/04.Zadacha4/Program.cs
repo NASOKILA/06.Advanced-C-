@@ -32,8 +32,6 @@ namespace _04.Zadacha4
 
                 if (!namesAndInfo.ContainsKey(name))
                 {
-
-                    
                     foreach (var item in information)
                     {
                         var tokens = item.Split(new string[] { ":" }, StringSplitOptions.RemoveEmptyEntries).ToArray();
@@ -41,21 +39,13 @@ namespace _04.Zadacha4
                         string key = tokens[0];
                         string value = tokens[1];
                         infoKeyAndValue[key] = value;
-
                     }
 
                     namesAndInfo[name] = infoKeyAndValue;
-
-
                 }
                 else
-                {
-                    //ako sudurja klucha NAME
-
-                    //vzimame si vsichko vutre v toq kluch
+                {                  
                     infoKeyAndValue = namesAndInfo[name];
-
-
                     
                     foreach (var item in information)
                     {
@@ -66,18 +56,10 @@ namespace _04.Zadacha4
                         string key = tokens[0];
                         string value = tokens[1];
 
-
-                        //AKO GO NQMA TOZI KLUCH
                         infoKeyAndValue[key] = value;
-                        
-
                     }
-
                     namesAndInfo[name] = infoKeyAndValue;
-
-
                 }
-
                 command = Console.ReadLine();
             }
 
@@ -86,7 +68,6 @@ namespace _04.Zadacha4
                 .ToArray();
 
             string nameToKill = target[1];
-
 
             int infoIndex = 0;
 
@@ -99,10 +80,8 @@ namespace _04.Zadacha4
                 Console.WriteLine($"---{item.Key}: {item.Value}");
             }
 
-
             Console.WriteLine($"Info index: {infoIndex}");
-            
-            
+           
             if (infoIndex >= targetInfoIndex)
             {
                 Console.WriteLine("Proceed");
@@ -113,9 +92,6 @@ namespace _04.Zadacha4
 
                 Console.WriteLine($"Need {infoNeeded} more info.");
             }
-
-
-
         }
     }
 }

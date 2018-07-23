@@ -7,24 +7,17 @@ namespace _03.Zadacha3
     class Program
     {
         static void Main(string[] args)
-        {
-            //CHECK NOTES
-
-
+        {   
             int n = int.Parse(Console.ReadLine());
 
-            //pravim go na edin string !
             string text = string.Empty;
             for (int i = 0; i < n; i++)
             {
-
                 string input = Console.ReadLine();
                 text += input;
             }
 
-
             Dictionary<string, int> matchesExtracted = new Dictionary<string, int>();
-
             
             string patt = (@"\[\D*(\d{3,}\n*)\D*\]|{\D*(\d{3,}\n*)\D*}");
             
@@ -38,8 +31,6 @@ namespace _03.Zadacha3
 
                 if (numbersTaken.Length % 3 == 0 && numbersTaken != "")
                 {
-
-                    //proveri dali veche ne sushtestvuva
                     matchesExtracted[numbersTaken] = match.Groups[0].Length;
                     numbersTaken = "";
                 }
@@ -48,13 +39,10 @@ namespace _03.Zadacha3
 
                 if (numbersTaken.Length % 3 == 0 && numbersTaken != "")
                 {
-                    //proveri dali veche ne sushtestvuva
                     matchesExtracted[numbersTaken] = match.Groups[0].Length;
                     numbersTaken = "";
-                }
-                
+                }               
             }
-
 
             string finalResult = "";
             foreach (var item in matchesExtracted)
@@ -63,10 +51,9 @@ namespace _03.Zadacha3
 
                 int itemLength = item.Key.Length;
                 int index = 0;
-                //split the minto threes
+
                 while (itemLength >= 3)
                 {
-
                     string currentpairOfThrees = item.Key.Substring(index, 3);
                     index += 3;
                     piecesOfThreePerItem.Add(int.Parse(currentpairOfThrees));
@@ -74,22 +61,13 @@ namespace _03.Zadacha3
                     itemLength -= 3;
                 }
 
-
-                //Get the actual characters
-
                 foreach (var num in piecesOfThreePerItem)
                 {
                     finalResult += (char)(num - item.Value);
                 }
-
-
-                
             }
 
-
-
             Console.WriteLine(finalResult);
-
         }
     }
 }

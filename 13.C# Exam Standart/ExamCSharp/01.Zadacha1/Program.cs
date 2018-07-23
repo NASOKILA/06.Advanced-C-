@@ -8,9 +8,6 @@ namespace _01.Zadacha1
     {
         static void Main(string[] args)
         {
-
-            //CHECK NOTES
-
             int priceOfBullet = int.Parse(Console.ReadLine());
             int sizeOfGunBarrel = int.Parse(Console.ReadLine());
 
@@ -28,28 +25,20 @@ namespace _01.Zadacha1
 
             Queue<int> locks = new Queue<int>(locksIndex);
 
-
-
-
-
             int bulletCost = 0;
             int bullersUsed = 0;
             
-            //locks front to back
             for (int i = 0; i < locks.Count; i++)
             {
                 int currentLock = locks.Peek();
 
-                //bullets back to front
                 for (int j = 0; j < bullets.Count; j++)
                 {
                     
-
                     int currentBullet = bullets.Dequeue();
                     bullersUsed++;
                     bulletCost += priceOfBullet;
                     
-                    //If the bullet has a smaller or equal size to the current lock, print “Bang!”, then remove the lock. 
                     if (currentLock >= currentBullet)
                     {
                         Console.WriteLine("Bang!");
@@ -71,13 +60,8 @@ namespace _01.Zadacha1
                         Console.WriteLine("Reloading!");
                         bullersUsed = 0;
                     }
-
-                    
-
                 }
-
             }
-
 
             if (locks.Count > 0)
             {
@@ -88,7 +72,6 @@ namespace _01.Zadacha1
                 int earned = valueOfIntelligence - bulletCost;
                 Console.WriteLine($"{bullets.Count} bullets left. Earned ${earned}");
             }
-
         }
     }
 }
