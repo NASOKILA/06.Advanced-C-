@@ -15,13 +15,11 @@ namespace _01.Odd_Lines
 
                 while (line != null)
                 {
-
                     if(lineNumber++ % 2 == 1)
                         Console.WriteLine(line);
                     
                     line = stream.ReadLine();
                 }
-
             }
         }
     }

@@ -9,15 +9,14 @@ namespace _02.Line_Numbers
         {
             using (StreamReader stream = new StreamReader("text.txt"))
             {
-
                 int lineNumber = 1;
 
                 string line = string.Empty;
+				
                 while ((line = stream.ReadLine()) != null)
                 {
                     Console.WriteLine($"Line {lineNumber++}: {line}");
                 }
-
             }
         }
     }
