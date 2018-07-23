@@ -8,7 +8,6 @@ namespace _03._Count_Uppercase_Words
     {
         static void Main(string[] args)
         {
-
             Func<string, bool> validate = (str) => Char.IsUpper(str[0]);
             
             Console.ReadLine()
@@ -16,7 +15,6 @@ namespace _03._Count_Uppercase_Words
                 .Where(s => validate(s))
                 .ToList()
                 .ForEach(e => Console.WriteLine(e));
-            
         }
     }
 }

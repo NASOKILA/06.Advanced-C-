@@ -10,7 +10,6 @@ namespace _01.Sort_Even_Numbers
 
         static void Main(string[] args)
         {
-
             var nums = Console.ReadLine()
                 .Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries)
                 .Where(n => parser(n) % 2 == 0)
@@ -18,7 +17,6 @@ namespace _01.Sort_Even_Numbers
                 .ToList();
 
             Console.WriteLine(string.Join(", ", nums));
-
         }
     }
 }
