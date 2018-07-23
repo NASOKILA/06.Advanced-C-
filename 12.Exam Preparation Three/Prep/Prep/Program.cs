@@ -20,13 +20,10 @@ namespace Prep
 
                 MatchCollection matches = regex.Matches(input);
 
-                //vzimame sredniq ako sa necheten broi matchove
                 var match = matches[matches.Count / 2];
 
-                Console.WriteLine($"Go to str. {match.Groups["streetName"]} {match.Groups["streetNumber"]}. Secret pass: { match.Groups["password"]}.");               
-                
+                Console.WriteLine($"Go to str. {match.Groups["streetName"]} {match.Groups["streetNumber"]}. Secret pass: { match.Groups["password"]}.");                           
             }
-
         }
     }
 }

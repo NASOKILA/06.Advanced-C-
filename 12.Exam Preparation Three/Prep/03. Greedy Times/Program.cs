@@ -21,20 +21,17 @@ namespace _03._Greedy_Times
 
             for (int i = 0; i < itemAndQuantityPairs.Length; i += 2)
             {
-                //case insentitive
+
                 string item = itemAndQuantityPairs[i].ToLower();
 
                 long quantity = long.Parse(itemAndQuantityPairs[i + 1]);
 
-                //gold
                 if (item == "gold")
                 {
-                    //gold 
 
                     var TypeQuantoty = new Dictionary<string, long>();
                     TypeQuantoty[item] = quantity;
 
-                    //Ako ne sudurja vuobshte klucha Gold
                     if (!ItemTypeQuantoty.ContainsKey("Gold"))
                     {
                         if (bagCapacity >= 0 && (bagCapacity - quantity >= 0))
@@ -46,8 +43,6 @@ namespace _03._Greedy_Times
                     }
                     else
                     {
-
-                        //Ako go sudurja klucha vzimame si typeQuantity i mu dobavqme oshte v broikata
                         TypeQuantoty = ItemTypeQuantoty["Gold"];
 
                         if (bagCapacity >= 0 && (bagCapacity - quantity >= 0))
@@ -56,22 +51,16 @@ namespace _03._Greedy_Times
                             TypeQuantoty[item] += quantity;
                             ItemTypeQuantoty["Gold"] = TypeQuantoty;
                         }
-
                     }
-
                 }
 
                 else if (item.EndsWith("gem"))
                 {
-                    //item is Gem
                     var TypeQuantoty = new Dictionary<string, long>();
                     TypeQuantoty[item] = quantity;
 
-                    //Ako ne sudurja vuobshte klucha Gold
                     if (!ItemTypeQuantoty.ContainsKey("Gem"))
                     {
-
-
                         if (ItemTypeQuantoty.ContainsKey("Gold"))
                             totalGoldAmount = ItemTypeQuantoty["Gold"].Values.Sum();
 
@@ -84,17 +73,11 @@ namespace _03._Greedy_Times
                                 bagCapacity -= quantity;
                             }
                         }
-
                     }
                     else
                     {
-
-
-                        //Ako ne sudurga tozi item kato kluch
                         if (!ItemTypeQuantoty["Gem"].ContainsKey(item))
                         {
-
-
                             if (ItemTypeQuantoty.ContainsKey("Gold"))
                                 totalGoldAmount = ItemTypeQuantoty["Gold"].Values.Sum();
 
@@ -109,9 +92,6 @@ namespace _03._Greedy_Times
                         else
                         {
 
-                            //Ako go sudurja klucha vzimame si samo mu dobavqme quantity i mu dobavqme oshte v broikata
-
-
                             if (ItemTypeQuantoty.ContainsKey("Gold"))
                                 totalGoldAmount = ItemTypeQuantoty["Gold"].Values.Sum();
 
@@ -119,31 +99,26 @@ namespace _03._Greedy_Times
                             {
                                 if (bagCapacity >= 0 && (bagCapacity - quantity >= 0))
                                 {
-
                                     bagCapacity -= quantity;
                                     ItemTypeQuantoty["Gem"][item] += quantity;
                                 }
                             }
                         }
                     }
-
                 }
 
-                //Cash
                 else if (item.Length == 3)
                 {
                     item = item.ToUpper();
-                    //item is Gem
+
                     var TypeQuantoty = new Dictionary<string, long>();
+					
                     TypeQuantoty[item] = quantity;
 
-                    //Ako ne sudurja vuobshte klucha Gold
                     if (!ItemTypeQuantoty.ContainsKey("Cash"))
                     {
-
                         if (ItemTypeQuantoty.ContainsKey("Gem"))
                             totalGemAmount = ItemTypeQuantoty["Gem"].Values.Sum();
-
 
                         if (totalGemAmount >= quantity)
                         {
@@ -157,9 +132,6 @@ namespace _03._Greedy_Times
                     }
                     else
                     {
-
-
-                        //Ako ne sudurga tozi item kato kluch
                         if (!ItemTypeQuantoty["Cash"].ContainsKey(item))
                         {
                             if (ItemTypeQuantoty.ContainsKey("Gem"))
@@ -176,11 +148,8 @@ namespace _03._Greedy_Times
                         }
                         else
                         {
-
-                            //Ako go sudurja klucha vzimame si samo mu dobavqme quantity i mu dobavqme oshte v broikata
                             if (ItemTypeQuantoty.ContainsKey("Gem"))
                                 totalGemAmount = ItemTypeQuantoty["Gem"].Values.Sum();
-
 
                             if (totalGemAmount >= ItemTypeQuantoty["Cash"].Values.Sum() + quantity)
                             {
@@ -191,26 +160,14 @@ namespace _03._Greedy_Times
                                 }
                             }
                         }
-
                     }
-
                 }
-
-                //skip everithing else
             }
 
-
-
-
-
-            //printing:
-
-            //podrejdame klucovete gi po koi ima poveche broiki
             foreach (var kvp in ItemTypeQuantoty)
             {
                 Console.WriteLine($"<{kvp.Key}> ${kvp.Value.Values.Sum()}");
 
-                //Inside a type order the items first alphabetically in descending order and then by amount in ascending order
                 foreach (var item in kvp.Value.OrderByDescending(k => k.Key)
                     .ThenBy(kk => kk.Value))
                 {
@@ -219,9 +176,7 @@ namespace _03._Greedy_Times
 
                     Console.WriteLine($"##{key} - {item.Value}");
                 }
-
             }
-
         }
     }
 }

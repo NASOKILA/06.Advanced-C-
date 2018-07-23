@@ -10,10 +10,6 @@ namespace _04.Treasute_Map
     class Program
     {
         static void Main(string[] args)
-        {
-
-       
-            
-        }
+        {}
     }
 }
