@@ -28,9 +28,7 @@ namespace _09._List_Of_Predicates
         {
             bool isDivisible = true;
             for (int j = dividers.Count - 1; j >= 0; j--)
-            {
-                //Zapochvame ot posledniq zashtoto e po dobra raktika
-                //da zapochvame ot po golqmoto
+            {               
                 int divider = dividers[j];
 
                 if (i % divider != 0)
@@ -40,7 +38,6 @@ namespace _09._List_Of_Predicates
                 }
             }
 
-            //if the element is divisible by all the numbers we print it on the console
             if (isDivisible)
                 Console.Write(i + " ");
         };

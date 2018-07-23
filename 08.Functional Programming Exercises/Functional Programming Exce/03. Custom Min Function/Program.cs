@@ -11,12 +11,10 @@ namespace _03._Custom_Min_Function
 
         static void Main(string[] args)
         {
-
             Console.WriteLine(GetSmallestNumber(Console.ReadLine()
                 .Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries)
                 .Select(n => int.Parse(n))
-                .ToList()));
-                
+                .ToList()));      
         }
     }
 }

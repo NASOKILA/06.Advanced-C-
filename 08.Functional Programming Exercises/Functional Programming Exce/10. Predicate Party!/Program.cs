@@ -18,7 +18,6 @@ namespace _10._Predicate_Party_
 
             while (commandTokens[0] != "Party!")
             {
-
                 string action = commandTokens[0];
                 string criteria = commandTokens[1];
                 string element = commandTokens[2];
@@ -32,8 +31,7 @@ namespace _10._Predicate_Party_
                 .ToArray();
             }
 
-            Print(peopleComing);
-            
+            Print(peopleComing);           
         }
 
         private static Action<List<string>> Print = (list) => {
@@ -47,7 +45,6 @@ namespace _10._Predicate_Party_
         private static Func<string, string, string, Func<List<string>, string, List<string>>> 
             GenerateFunc = (action, criteria, element) =>
         {
-
             if (action == "Remove")
             {
                 if (criteria == "StartsWith")
@@ -58,7 +55,6 @@ namespace _10._Predicate_Party_
 
                         return newlist;
                     };
-
 
                     return func;
                 }
@@ -71,11 +67,9 @@ namespace _10._Predicate_Party_
                         return newlist;
                     };
                     return func;
-
                 }
                 else
                 {
-                    //Length
                     Func<List<string>, string, List<string>> func = (list, elem) => {
                         
                         var newlist = list.Where(e => e.Length != int.Parse(elem)).ToList();
@@ -88,8 +82,6 @@ namespace _10._Predicate_Party_
             }
             else 
             {
-                //double
-
                 if (criteria == "StartsWith")
                 {
 
@@ -133,7 +125,6 @@ namespace _10._Predicate_Party_
                 }
                 else
                 {
-                    //Length
                     Func<List<string>, string, List<string>> DoubleFunc = (list, elem) => {
 
                         var newlist = new List<string>();
@@ -149,12 +140,9 @@ namespace _10._Predicate_Party_
                         return newlist;
                     };
 
-                    return DoubleFunc;
-                    
-                }
-                
+                    return DoubleFunc;            
+                } 
             }
-            
         };
     }
 }

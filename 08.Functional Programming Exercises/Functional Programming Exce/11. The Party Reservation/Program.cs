@@ -8,7 +8,6 @@ namespace _11._The_Party_Reservation
     {
         static void Main(string[] args)
         {
-
             var names = Console.ReadLine()
                .Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries)
                .ToList();
@@ -34,9 +33,7 @@ namespace _11._The_Party_Reservation
             }
 
             Console.WriteLine(string.Join(" ", names));
-
         }
-
 
         public static Func<string, string, string, Func<Dictionary<string, List<string>>, List<string>, string, List<string>>>
             GenerateFunc = (command, filterType, parameter) =>
@@ -50,7 +47,6 @@ namespace _11._The_Party_Reservation
                         Func<Dictionary<string, List<string>>, List<string>, string, List<string>>
                         AddFuncSW = (dictionary, list, param) =>
                         {
-
                             var newList = list.Where(e => !e.StartsWith(param)).ToList();
 
                             var removedElements = list.Where(e => e.StartsWith(param)).ToList();
@@ -97,19 +93,15 @@ namespace _11._The_Party_Reservation
 
                             dictionary[filterType] = removedElements;
 
-
                             return newList;
                         };
 
                         return AddFuncLength;
                     }
 
-                    //Contains
-
                     Func<Dictionary<string, List<string>>, List<string>, string, List<string>>
                     AddFuncContains = (dictionary, list, param) =>
                     {
-
                         var newList = list.Where(e => !e.Contains(param)).ToList();
 
                         var removedElements = list.Where(e => e.Contains(param)).ToList();
@@ -125,17 +117,13 @@ namespace _11._The_Party_Reservation
                     return AddFuncContains;
                 }
 
-                //remove filter
-
                 if (filterType == "Starts with")
                 {
                     Func<Dictionary<string, List<string>>, List<string>, string, List<string>>
                     RemoveFuncSW = (dictionary, list, param) =>
                     {
-
                         var newList = list.Where(e => !e.StartsWith(param)).ToList();
 
-                            //vzimme ot dictionary vsichki SPORED filterType i gi dobavqme OTPRED NA  newList
                             List<string> elementsToRestore = dictionary[filterType];
 
                         for (int i = elementsToRestore.Count - 1; i >= 0; i--)
@@ -145,7 +133,6 @@ namespace _11._The_Party_Reservation
                                 newList.Insert(0, element);
                         }
 
-
                         return newList;
                     };
 
@@ -153,15 +140,12 @@ namespace _11._The_Party_Reservation
                 }
                 else if (filterType == "Ends with")
                 {
-
                     Func<Dictionary<string, List<string>>, List<string>, string, List<string>>
                     RemoveFuncEW = (dictionary, list, param) =>
                     {
-
                         var newList = list.Where(e => !e.EndsWith(param)).ToList();
 
-                            //vzimme ot dictionary vsichki SPORED filterType i gi dobavqme OTPRED NA  newList
-                            List<string> elementsToRestore = dictionary[filterType];
+                        List<string> elementsToRestore = dictionary[filterType];
 
                         for (int i = elementsToRestore.Count - 1; i >= 0; i--)
                         {
@@ -180,7 +164,6 @@ namespace _11._The_Party_Reservation
                     Func<Dictionary<string, List<string>>, List<string>, string, List<string>>
                 RemoveFuncLength = (dictionary, list, param) =>
                 {
-
                     var newList = list.Where(e => e.Length != int.Parse(param)).ToList();
 
                     List<string> elementsToRestore = dictionary[filterType];
@@ -198,12 +181,8 @@ namespace _11._The_Party_Reservation
                     return RemoveFuncLength;
                 }
 
-
-                //Contains
-
                 Func<Dictionary<string, List<string>>, List<string>, string, List<string>> RemoveFuncContains = (dictionary, list, param) =>
                 {
-
                     var newList = list.Where(e => !e.Contains(param)).ToList();
 
                     List<string> elementsToRestore = dictionary[filterType];
@@ -219,11 +198,7 @@ namespace _11._The_Party_Reservation
                 };
 
                 return RemoveFuncContains;
-
-
-
             };
-
     }
 }
 

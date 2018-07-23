@@ -16,9 +16,7 @@ namespace _02._Knights_of_Honor
                 .Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries)
                 .ToList();
             
-
             PrintResult(input);
-
         }
     }
 }

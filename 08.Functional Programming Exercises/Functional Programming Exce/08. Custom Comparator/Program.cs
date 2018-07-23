@@ -14,7 +14,6 @@ namespace _08._Custom_Comparator
              .ToList();
 
             var oddNums = nums.Where(e => Math.Abs(e) % 2 == 1).ToArray();
-
             var evenNums = nums.Where(e => Math.Abs(e) % 2 == 0).ToArray();
 
             Array.Sort(evenNums);
@@ -35,13 +34,10 @@ namespace _08._Custom_Comparator
             foreach (var num in evenNums)
                 result.Add(num);
 
-
             foreach (var num in oddNums)
                 result.Add(num);
 
-
             return result;
-
         }
     }
 }

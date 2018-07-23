@@ -13,11 +13,9 @@ namespace _01._Action_Print
 
         static void Main(string[] args)
         {
-
             Print(Console.ReadLine()
                 .Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries)
                 .ToList());
-        }
-        
+        }  
     }
 }

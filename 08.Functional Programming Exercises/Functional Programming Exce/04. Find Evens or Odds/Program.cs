@@ -7,11 +7,9 @@ namespace _04._Find_Evens_or_Odds
     class Program
     {
 
-        //action to print the result
         public static Action<List<int>> PrintResult = (list) 
             => Console.WriteLine(string.Join(" ", list));
             
-        //function to generate the correct predicate
         public static Func<string, Predicate<int>> CreatePredicate =
             (str) => {
 
@@ -31,16 +29,12 @@ namespace _04._Find_Evens_or_Odds
 
             string command = Console.ReadLine();
 
-            //suzdavame dinamichno predikata
             Predicate<int> predicate = CreatePredicate(command);
 
-            //pravim si spisuka s chislata spored generiraniq predikat
             var nums = new List<int>();
             fillList(input, predicate, nums);
 
-            //polzvame si predikata i Actiona za da si printirame pravilnite stoinosti
             PrintResult(nums);
-
         }
 
         private static void fillList(List<int> input, Predicate<int> predicate, List<int> nums)
@@ -53,12 +47,3 @@ namespace _04._Find_Evens_or_Odds
         }
     }
 }
-
-
-
-
-
-
-
-
-

@@ -7,13 +7,9 @@ namespace _06._Reverse_And_Exclude
     class Program
     {
 
-        //Podavame spisuka i predikata koito suzdadohme koito proverqva dali dadeno chislo se deli na 
-        //promenlivata 'num' koqto e podadena ot konzolata
-        //funkciqta suzdava nov spisuk i go vrushta kato rezultat.
         public static Func<List<int>, Predicate<int>, List<int>> ReverseList = (list, check) =>
         {
             var newList = new List<int>();
-
             for (int i = list.Count-1; i >= 0 ; i--)
             {
                 int num = list[i];
@@ -33,7 +29,6 @@ namespace _06._Reverse_And_Exclude
 
             int num = int.Parse(Console.ReadLine());
 
-            //vrushta tre ako podadenoto chislo ne se deli na 'num' !!!
             Predicate<int> check = (n) => n % num != 0;
 
             List<int> result = ReverseList(nums, check);

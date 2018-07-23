@@ -14,7 +14,6 @@ namespace _13._TriFunction
                 .Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries)
                 .ToList();
 
-
             FindName(n, names);
         }
 
@@ -39,6 +38,5 @@ namespace _13._TriFunction
             
             return sum >= length ? true : false;
         };
-
     }
 }

@@ -31,10 +31,9 @@
                     continue;
                 }
 
-                // {command;filter type;filter parameter} eg.: Exclude;Sum Left Right;9
-                var command = input[0]; // Commands can be: "Exclude", "Reverse" or "Forge".
-                var filterType = input[1]; // Filter types are: "Sum Left", "Sum Right" and "Sum Left Right". 
-                var filterParamenter = int.Parse(input[2]); // All filter parameters will be an integer. 
+                var command = input[0];
+                var filterType = input[1]; 
+                var filterParamenter = int.Parse(input[2]); 
 
                 switch (command)
                 {
